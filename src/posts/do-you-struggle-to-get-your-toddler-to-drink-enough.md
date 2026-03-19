@@ -14,8 +14,6 @@ permalink: /do-you-struggle-to-get-your-toddler-to-drink-enough/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/07/img_4068.jpg)](/images/uploads/2017/07/img_4068.jpg)
-
 Have you tried drink with your toddler’s cup /beaker?  
 The guidance to introduce a cup at 6 months and to move away from the bottle at 12 months is pretty well known (it’s important to help with oromotor development). However this often means that parents struggle to get their children to drink enough.   
 My girls love using a straw and this was a useful way of helping us to get off sippy cups (always use free flowing ones and avoid valves).   

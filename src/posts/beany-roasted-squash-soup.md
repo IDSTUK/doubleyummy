@@ -8,8 +8,7 @@ excerpt: "On a placemat made by their 3 year old cousin 💖 This was such a hit
 permalink: /beany-roasted-squash-soup/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/03/img_2410.jpg)](/images/uploads/2017/03/img_2410.jpg)  
+  
 On a placemat made by their 3 year old cousin 💖
 
 This was such a hit with B. Orange is her favourite colour for food! 

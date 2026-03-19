@@ -9,8 +9,6 @@ permalink: /out-of-the-house-all-day/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/07/img_9272.jpg)](/images/uploads/2016/07/img_9272.jpg)
-
 Double party day so a lot to pack for including two picnics. I love variety in a day but the fridge is getting low and I wasn’t sure what I was going to be able to pull together without cooking facilities when out and about. 
 
 Then it came to me, steam some veggies that we would have had for tea at home (mushrooms, peppers and courgette) and serve with mini quiche, mini sweet potato pie (made with the croquette mix from an earlier blog) and a few pin wheel humous wraps all pre-made in the freezer for tea. Followed by some plain Greek yoghurt. 

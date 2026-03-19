@@ -9,8 +9,6 @@ permalink: /a-world-of-discovery/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/12/img_1243.jpg)](/images/uploads/2016/12/img_1243.jpg)
-
 The wonder of seeing baubles for the first time.
 
 It’s such ch a wonderful time of discovery as a toddler and Christmas is an extra special time.

@@ -9,8 +9,6 @@ permalink: /spaghetti-bolognaise/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/12/img_1098.jpg)](/images/uploads/2016/12/img_1098.jpg)
-
 Tonight’s was made from 500g turkey mince, 2 medium diced onions, a bag of roasted veg, a large handful of edamame beans, a carton of passatta, 3-4 tbsp tomato purée, a load of mixed herbs, a shake of paprika, a glut of vinegar & a good ground of black pepper.
 
 This was enough for 4 generous adult and 4 toddler portions.

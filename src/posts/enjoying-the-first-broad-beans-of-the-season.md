@@ -8,8 +8,7 @@ excerpt: "The first of the broad bean harvest was enjoyed by the girls tonight. 
 permalink: /enjoying-the-first-broad-beans-of-the-season/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/06/img_8138.jpg)](/images/uploads/2016/06/img_8138.jpg)  
+  
 The first of the broad bean harvest was enjoyed by the girls tonight.  
 Broad beans are not just delicious & a good source of veggie fibre but also a source of veggie protein. Served tonight with roasted sweet potato & squash, steamed mushrooms (also counts as a veg fibre & protein), mini pasta shells (with a little olive oil to stop them sticking together) & watermelon slices
 

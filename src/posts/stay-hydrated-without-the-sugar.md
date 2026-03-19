@@ -9,8 +9,6 @@ permalink: /stay-hydrated-without-the-sugar/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/09/img_9451-1.jpg)](/images/uploads/2016/09/img_9451-1.jpg)
-
 Flavour your water without adding any sugar or artificial sweeteners. It’s important for you and your family to stay hydrated, especially during the warm weather but nobody needs all of the sugar that is packed into so many drinks. 
 
 Before I go on I need to say that babies do NOT need juice (pet hate of mine!). 

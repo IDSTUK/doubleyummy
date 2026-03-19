@@ -9,8 +9,6 @@ permalink: /celeriac-humous/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/11/img_0536.jpg)](/images/uploads/2016/11/img_0536.jpg)
-
 Celeriac humous (another from the lovely Chloe)
 
 Ingredients:

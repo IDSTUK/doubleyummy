@@ -9,8 +9,6 @@ permalink: /mirandas-fish-pie/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/09/img_0188-2.jpg)](/images/uploads/2016/09/img_0188-2.jpg)
-
 What a treat it was to have this cooked for us. So yummy I have to share it. I particularly liked the eggs in it 💖🐔
 
 ### Ingredients

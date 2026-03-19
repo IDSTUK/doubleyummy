@@ -14,8 +14,6 @@ permalink: /burger-time/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/08/img_2553.jpg)
-
 Homemade burgers with sliced gherkins, humous, cheese, rocket, lettuce and BBQd courgette & a squeeze of onion relish all in a toasted bun. Flashback to last weekend’s BBQ. Everyone
 
 enjoyed making the burgers and eating them!

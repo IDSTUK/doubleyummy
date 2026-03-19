@@ -9,8 +9,6 @@ permalink: /why-bother-to-take-the-stairs/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/02/img_1894.jpg)](/images/uploads/2017/02/img_1894.jpg)
-
 You’re probably aware of the activity target of 180 minutes of exercise per week for adults. 
 
 But did you know that sedentary behaviour is a health risk factor in its own right?

@@ -14,8 +14,6 @@ permalink: /squash-sage-prawn-chicken-chorizo-risotto-worth-the-multi-meat/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/01/img_0485.jpg)
-
 Squash & sage, prawn, chicken & chorizo risotto topped with a squeeze of lemon, drizzle of olive oil and finely grated Parmesan.
 
 Got back quite late last night so really thankful to arrive home to this.

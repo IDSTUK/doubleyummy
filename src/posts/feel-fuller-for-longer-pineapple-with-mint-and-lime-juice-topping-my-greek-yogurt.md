@@ -15,8 +15,6 @@ permalink: /feel-fuller-for-longer-pineapple-with-mint-and-lime-juice-topping-my
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/10/img_0011.jpg)](/images/uploads/2017/10/img_0011.jpg)
-
 I was burning the midnight oil yesterday as I have a big presentation to give this evening.   
 This is the time that it’s easy to reach for the chocolate, biscuits and crisps. I find that with those types of snacks I’m not satisfied and want more. Instead here the yoghurt gives a good protein punch and the pineapple a great source of fibre both of which are known to help you feel fuller for longer.   
 An extra bonus is all of vitamins and minerals and most importantly of course the delicious taste!   

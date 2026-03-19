@@ -8,8 +8,7 @@ excerpt: "🐔💖🍳 Herby ham and mushroom omelettes for tea.  The girls enj
 permalink: /thank-you-chickens/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/08/img_9523.jpg)](/images/uploads/2016/08/img_9523.jpg)  
+  
 🐔💖🍳 Herby ham and mushroom omelettes for tea. 
 
 The girls enjoyed there’s chopped into bite sized chunks (1 egg omelette each!). 

@@ -9,8 +9,6 @@ permalink: /spiced-apple-oaty-bite-making/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/01/img_1683.jpg)](/images/uploads/2017/01/img_1683.jpg)
-
 Mashed bananas 🍌 stewed apple, mixed spice and oats (50:50 oats to fruit works well, though we just used the fruit we had and then added oats until we got a mouldable texture). 
 
 Shape and bake for 15 minutes at 180’C. That’s it! 

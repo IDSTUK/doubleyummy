@@ -8,8 +8,7 @@ excerpt: "Move more, sit less, play together. This is the latest mantra for gett
 permalink: /does-your-little-one-get-at-least-3-hours-per-day-of-active-play/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/08/img_9568.jpg)](/images/uploads/2016/08/img_9568.jpg)  
+  
 Move more, sit less, play together. This is the latest mantra for getting active in the early years. 
 
 Bring active improves babies and children’s sleep (every parents dream!), builds relationships and social skills and develops muscles and bones. It also contributes to brain development and coordination. 

@@ -9,8 +9,6 @@ permalink: /sweet-potato-bean-chorizo-hash-topped-with-an-egg/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/04/img_3009.jpg)](/images/uploads/2017/04/img_3009.jpg)
-
 This can be made into a vegetarian dish by swapping the chorizo for a teaspoon or two of paprika.   
 Ingredients for two adults and two tots:
 

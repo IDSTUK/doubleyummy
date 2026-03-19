@@ -15,8 +15,6 @@ permalink: /struggling-to-get-your-little-ones-to-try-new-foods/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/06/img_2034.jpg)
-
 Pick up some veggie plants and get your children to help plant and look after them. You don’t need to have lots of space. Cherry tomatoes as a windowsill plant, strawberries in a pot or courgette in a grow bag all work well for small spaces. Maybe even start smaller than that and do cress by the kitchen sink!
 
 Things that can be picked and eaten straight away are ideal, like fresh peas, carrots, radishes, salad leaves and of course berry bushes.

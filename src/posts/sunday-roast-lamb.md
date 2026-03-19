@@ -9,8 +9,6 @@ permalink: /sunday-roast-lamb/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/10/img_0299.jpg)](/images/uploads/2016/10/img_0299.jpg)
-
 I love sitting around the table catching up with the extended family over dinner. The girls enjoy the relaxed nature of these meals and often seem to eat better.
 
 Thank you Uncle Stu for cooking such a yummy tea. Roasted lamb, roasted parsnips & potatoes with steamed broccoli and carrots.

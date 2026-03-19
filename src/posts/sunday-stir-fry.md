@@ -9,8 +9,6 @@ permalink: /sunday-stir-fry/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/02/img_1990.jpg)](/images/uploads/2017/02/img_1990.jpg)
-
 A Sunday roast is a great way to get a load of veggies in. Today however we achieved the same objective with a veggie packed ‘Sunday stir fry’. 
 
 This one has crayfish, ginger, mushrooms, shredded sprouts, finely chopped cabbage and spring onions, grated carrot, chopped garlic with sesame oil & a little soya and oyster sauces (be cautious the the quantity as these are very salty – you can shays add more to yours after serving the little peoples 😂). 

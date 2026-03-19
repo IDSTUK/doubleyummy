@@ -14,7 +14,6 @@ excerpt: "Some of us are born with a little extra. #worlddownsyndromeday Let’s
 permalink: /celebrate-our-differences/
 layout: layouts/post.njk
 ---
-
-![](/images/uploads/2018/03/img_1121.jpg)Some of us are born with a little extra. #worlddownsyndromeday Let’s embrace and celebrate our difference as they make the world a richer more fulfilling place. This evening my girls chose Elmer for their bedtime story which felt so appropriate. Smile, make others smile and don’t be afraid to show your true colours.
+Some of us are born with a little extra. #worlddownsyndromeday Let’s embrace and celebrate our difference as they make the world a richer more fulfilling place. This evening my girls chose Elmer for their bedtime story which felt so appropriate. Smile, make others smile and don’t be afraid to show your true colours.
 
 #truecolours #oddsocks #downsyndrome #alittleextra #smile #celebratedifferences #paediatricdietitian #dietitian #mumlife #momlife #elmer

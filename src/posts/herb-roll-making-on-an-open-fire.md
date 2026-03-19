@@ -14,8 +14,6 @@ permalink: /herb-roll-making-on-an-open-fire/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/07/img_4024.jpg)](/images/uploads/2017/07/img_4024.jpg)
-
 Getting children to get involved in making their own food is a great way to get them to try new things and to learn to enjoy for food more than just the eating.   
 Both girls loved making and eating their herby rolls as Enys Gardens Food Jam today and this is something that we’re definitely going to do again (the festival and the bread making at home!).   
 I think I’d be a great activity for when you’ve got friends around for a BBQ. 

@@ -9,8 +9,6 @@ permalink: /ham-sandwich-with-a-twist/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/08/img_9351.jpg)](/images/uploads/2016/08/img_9351.jpg)
-
 Simple but yummy lunch: ham sandwich with a twist. 
 
 Instead of putting butter or any sauce on the bread I spread some avocado on one slice and cream cheese on the other & to make it extra special (and extra tasty!) I used sundried tomato and olive bread.  

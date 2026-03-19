@@ -15,8 +15,6 @@ permalink: /surf-and-turf-%f0%9f%98%82/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/09/img_4761.jpg)](/images/uploads/2017/09/img_4761.jpg)
-
 The girls (almost 2yrs) are so into playing with their kitchen and food.   
 This is what I was served evening! Meanwhile her sister got me a peppermint tea 💖  
 They often cook at their kitchen whilst I get the food ready. They also help me with little bits (which they love). Making food play part of everyday is a great way of having positive discussions about food.   

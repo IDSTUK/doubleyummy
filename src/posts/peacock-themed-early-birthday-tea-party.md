@@ -9,8 +9,6 @@ permalink: /peacock-themed-early-birthday-tea-party/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/09/img_0070.jpg)](/images/uploads/2016/09/img_0070.jpg)
-
 With only a couple of weeks until our gorgeous girls turn 1 we had an peacock themed early birthday tea party today ‘Up country’ (when you’re Cornish this defines anywhere north of the Tamar River 😋). 
 
 Platter 1:

@@ -15,8 +15,7 @@ excerpt: "An old favourite in the making, packed full of veggies & full of flavo
 permalink: /cheats-moussaka-in-the-making/
 layout: layouts/post.njk
 ---
-
-![](/images/uploads/2019/06/img_3216.jpg)An old favourite in the making, packed full of veggies & full of flavour. Today’s protein & fibre boost comes from chickpeas. #lovepulses
+An old favourite in the making, packed full of veggies & full of flavour. Today’s protein & fibre boost comes from chickpeas. #lovepulses
 
 Lamb can be expensive but it’s delicious so my advice is to bulk it out with veggies so that it’s cheaper per serving yet retains all of that yummy flavour. Here lentils boost the protein and fibre content at the same time. You’ve got to love pulses!
 

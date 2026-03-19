@@ -8,8 +8,7 @@ excerpt: "Have you managed to stick to your New Years resolution? Most resolutio
 permalink: /dechox-for-march/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/02/img_2218-1.jpg)](/images/uploads/2017/02/img_2218-1.jpg)  
+  
 Have you managed to stick to your New Years resolution? Most resolutions are out of the window by March. 
 
 I love this campaign by the British Heart Foundation encouraging people to give up chocolate for March. 

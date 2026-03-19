@@ -9,8 +9,6 @@ permalink: /exposure-is-key-when-it-comes-to-veg/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/04/img_2801.jpg)](/images/uploads/2017/04/img_2801.jpg)
-
 With this lunch I’ve indicated the food group and whether it’s a love it, like it or learning it food):  
 Cream cheese (milk protein) – like 
 

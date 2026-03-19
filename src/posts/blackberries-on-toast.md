@@ -9,8 +9,6 @@ permalink: /blackberries-on-toast/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/08/img_9550.jpg)](/images/uploads/2016/08/img_9550.jpg)
-
 Yum yum, the blackberry season has started.
 
 We’ve been blackberry picking with the girls and I wanted to incorporate into lunch.

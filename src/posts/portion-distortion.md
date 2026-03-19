@@ -9,8 +9,6 @@ permalink: /portion-distortion/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/10/img_0563.jpg)](/images/uploads/2016/10/img_0563.jpg)
-
 She actually only chewed a little bit whilst helping me process the apples from our tree. But it made me think about how portion sizes have changed over the years.
 
 Using a smaller plate is a great way to help manage your portion size. It makes the brain think we’re having more before we’ve even taken a bite.

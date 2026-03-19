@@ -9,8 +9,6 @@ permalink: /a-healthier-twist-on-egg-on-toast/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/11/img_0812.jpg)](/images/uploads/2016/11/img_0812.jpg)
-
 Egg and tomatoes on avocado spread toast. You could up the healthiness stakes by poaching your egg. 
 
 This balanced lunch gives you two of your 5-a-day for fruit and veggies and it’s a great source of healthy monounsaturated fats from the avocado. The egg is a great source of protein that contains all of the essential amino acids that our bodies need for growth and repair and the wholemeal toast provides a good source of slow release carbohydrates for sustained energy throughout the afternoon. 

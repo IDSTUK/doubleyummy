@@ -9,8 +9,6 @@ permalink: /sweet-potato-humous/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/10/img_0539.jpg)](/images/uploads/2016/10/img_0539.jpg)
-
 One to try this weekend 😍
 
 1 Sweet potato boiled

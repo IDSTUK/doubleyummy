@@ -9,8 +9,6 @@ permalink: /cosy-spanish-beans/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/01/img_1800.jpg)](/images/uploads/2017/01/img_1800.jpg)
-
 We needed a cosy meal full of flavour this evening as we’re full of colds. This was really easy to prepare and delicious- perfect after a busy week. 
 
 Beans tend to be underused, unless they’re coated in sugary and salty tomato sauce 😂 

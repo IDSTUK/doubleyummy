@@ -8,8 +8,7 @@ excerpt: "Tonight the oven went on and in went the par-boiled (with skins on as 
 permalink: /family-waist-friendly-friday-fish-and-chips/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/02/img_2059.jpg)](/images/uploads/2017/02/img_2059.jpg)  
+  
 Tonight the oven went on and in went the par-boiled (with skins on as I like the taste and it ups the fibre) carrots, potatoes and sweet potatoes all cut into batons or wedges with a little drizzle of oil over the top and sea bass fillets on another tray. The finely ribboned greens jumped into the steamer (cut like this in an attempt to entice little mouths though they didn’t really go for it 😂) and I chopped up some parsley (2-3 tbsp), capers (2 tbsp), added the zest of 1 lemon, 2 tbsp lemon juice & 3 tbsp olive oil and mixed it all together to make the gremolata. 
 
 Fish is a great source of lean protein unless you stick it in the deep frier (especially if smothered in batter!). And the extra great news is that the fat that sea bass has is rich in the healthiest of all fats, the omega 3s 😀 

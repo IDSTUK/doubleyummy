@@ -9,8 +9,6 @@ permalink: /giving-breakfast-a-vitamin-c-boost-with-cramelised-pink-grapefruits/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/05/img_1673.jpg)
-
 Simply cut three grapefruits in half and sprinkle a light dusting of sugar over the surface and grill until caramelised.
 
 Although pink grapefruits are nice without the caramelised top and this means giving ‘added sugar’, at about 1/4 tsp each and with the relatively low sugar content of grapefruit I think it’s a nice chefy addition!

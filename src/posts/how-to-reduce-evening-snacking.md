@@ -9,8 +9,6 @@ permalink: /how-to-reduce-evening-snacking/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/08/img_9522.jpg)](/images/uploads/2016/08/img_9522.jpg)
-
 Brushing teeth is a great way to reduce evening snacking! 
 
 We all know that it’s important to brush our teeth twice a day but my new ‘timing technique’ is having a great effect on my waist line 😋 

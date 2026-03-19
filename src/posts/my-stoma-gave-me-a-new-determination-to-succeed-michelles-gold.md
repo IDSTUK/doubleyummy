@@ -15,8 +15,6 @@ permalink: /my-stoma-gave-me-a-new-determination-to-succeed-michelles-gold/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/01/img_0459.jpg)
-
 I’m so proud of Michelle and really want you to hear her story.
 
 Michelle is a talented Dietitian, Gold medallist triathlete and all round lovely person. Her zest for like is an inspiration to me.

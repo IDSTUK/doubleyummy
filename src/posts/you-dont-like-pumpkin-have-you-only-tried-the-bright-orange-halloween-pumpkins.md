@@ -15,8 +15,6 @@ permalink: /you-dont-like-pumpkin-have-you-only-tried-the-bright-orange-hallowee
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/10/img_3355.jpg)
-
 We had a great day pumpkin picking on Saturday. Lots of different varieties. The blue-ish and pale brown ones were the best flavour but these ones were much more vibrant colours for decorating.
 
 One of my friends said they don’t like pumpkins so would just be buying for decoration. When we talked about which pumpkins they’d tried it was just the orange pumpkins sold for carving. As these are bred for size, shape and colour they often lack flavour. It’s definitely worth trying different varieties and different ways of cooking before writing this versatile and yummy veg group off.

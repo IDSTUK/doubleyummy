@@ -9,8 +9,6 @@ permalink: /its-a-wrap/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/09/img_9817.jpg)](/images/uploads/2016/09/img_9817.jpg)
-
 Humous wrap strips. Instead of our usual mini pin wheel wraps today I’ve simply spread humous on half a wrap and folded it over. It’s then cut into different shaped pieces for interest. 
 
 Interest for me as much as anyone as I’m keen to see if they prefer / find it easier to eat particular shapes. Everyday is a learning day with us. I sine tunes feel like I’m in the middle of one big twin experiment..! 😍😍 

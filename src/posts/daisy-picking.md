@@ -8,8 +8,7 @@ excerpt: "A perfect early spring Sunday activity in the garden.  What do you li
 permalink: /daisy-picking/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/03/img_2409.jpg)](/images/uploads/2017/03/img_2409.jpg)  
+  
 A perfect early spring Sunday activity in the garden. 
 
 What do you like to do outside? 

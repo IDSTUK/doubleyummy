@@ -14,8 +14,7 @@ excerpt: "Meet Pepper. Here I am with a couple of brilliant Dietitians that I’
 permalink: /ehealth-what-little-things-can-we-change-to-improve-services/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/09/img_4835.jpg)](/images/uploads/2017/09/img_4835.jpg)Meet Pepper. Here I am with a couple of brilliant Dietitians that I’m fortunate enough to work with. This was at the EPIC eHealth event last week. The idea is that is togetger we can find ways to make lots of little efficiencies in health care here in Cornwall it’ll have a big overall impact. This sits very well with my love for behaviour change. Small changes can make a big difference at work and at home and it’s proven that making small changes in the right places can have a massive impact on our health. 
+Meet Pepper. Here I am with a couple of brilliant Dietitians that I’m fortunate enough to work with. This was at the EPIC eHealth event last week. The idea is that is togetger we can find ways to make lots of little efficiencies in health care here in Cornwall it’ll have a big overall impact. This sits very well with my love for behaviour change. Small changes can make a big difference at work and at home and it’s proven that making small changes in the right places can have a massive impact on our health. 
 
 Today is a day with my girls and so I’m writing this walking in the sunshine as they sleep in the buggy. 
 

@@ -9,8 +9,6 @@ permalink: /penguin-feeding-time-%f0%9f%98%8d/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/11/img_1044.jpg)](/images/uploads/2016/11/img_1044.jpg)
-
 Happy 2nd birthday to my gorgeous niece. 
 
 Celebrating @paradiseparkcornwall feeding the penguins! 🐧 💖 

@@ -11,7 +11,7 @@ layout: layouts/post.njk
 
 Happy Christmas everyone 😍🎄💖 
 
-[![](/images/uploads/2016/12/img_1286.jpg)](/images/uploads/2016/12/img_1286.jpg)  
+  
 What do you do with your sprout tops?   
 I love getting spouts on the stalk so that we can enjoy the sprout tops. Here I’ve stir fried them with julienned carrots, broccoli, ginger, garlic, sesame oil, ribbon rice noodles and king prawns. 
 

@@ -8,8 +8,7 @@ excerpt: "We love our picnic rug but it’s not ideal for eating moister things 
 permalink: /magic-carpets-for-our-finger-food-picnic/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/07/img_9115.jpg)](/images/uploads/2016/07/img_9115.jpg)  
+  
 We love our picnic rug but it’s not ideal for eating moister things off. So today we tried something new – sitting on our place mats & I’m pleased to say it worked well. Not only are they wipe clean and fun to look at but they’re also easy to carry with you.
 
 The girls say happily on their ‘magic carpets’ and enjoyed their mini pasta shells, cooked carrot sticks, small chunks of roasted chicken, cherry tomatoes & nectarine.

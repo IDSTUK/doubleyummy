@@ -14,8 +14,6 @@ permalink: /did-you-know-that-basmati-rice-has-a-lower-gi-glycogenic-index-than-
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/08/img_4257.jpg)](/images/uploads/2017/08/img_4257.jpg)
-
 Glycemic index is a measure of how quickly the carbohydrate in the food is broken down into simple sugars and absorbed into the blood for use by the body or storage as fat. The slower it is released the better as this gives a more steady supply of energy, reducing blood glucose highs and lows and helps you to feel fuller for longer.  
 It’s not as simple as looking at the GI of something to know how healthy it is though. This is because the amount you eat and how much fat and protein is also in the food has an effect on the over all effect on this ‘sugar transit time’. It is useful when you are comparing like for like though so in the case two varieties of rice.  
 Fibre also plays an important role is slowing down the absorption rate of sugar into the blood stream. This is one if the many reasons why whole fruits and vegetables are better for you than smoothies and likewise both of these are better than juicing.  

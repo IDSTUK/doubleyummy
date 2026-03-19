@@ -15,8 +15,7 @@ excerpt: "Serves 4 adults and two babies with left over beef for sandwiches etc 
 permalink: /beef-stew/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/06/img_8267.jpg)](/images/uploads/2016/06/img_8267.jpg)  
+  
 Serves 4 adults and two babies with left over beef for sandwiches etc and a couple of baby portions of stew for the freezer unless you’re hungry adults!
 
 ### Ingredients

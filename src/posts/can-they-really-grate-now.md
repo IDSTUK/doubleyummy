@@ -23,6 +23,4 @@ It made them much more interested in their soup (leftover roasted veggies inc qu
 
 And here’s a bonus pic of beach fun:
 
-![](/images/uploads/2018/11/img_0592-1.jpg)
-
 #soup #childrenscooking #winterwarmer #mealprep #kidsfood #babyfood #familyfood #dietitian #paediatricdietitian #doubleyummy

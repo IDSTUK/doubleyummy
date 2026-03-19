@@ -13,8 +13,7 @@ excerpt: "Today’s raspberry porridge is topped with 1/2 sliced peach.  Season
 permalink: /keeping-up-the-fibre-with-peach-melba-for-breakfast/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/07/img_3991.jpg)](/images/uploads/2017/07/img_3991.jpg)  
+  
 Today’s raspberry porridge is topped with 1/2 sliced peach. 
 
 Seasonal fruit is always so tasty. We always try to get a portion (2 if it’s carrot cake porridge) of fruit & veg in at breakfast. 

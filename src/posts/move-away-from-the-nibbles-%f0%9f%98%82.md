@@ -9,8 +9,6 @@ permalink: /move-away-from-the-nibbles-%f0%9f%98%82/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/12/img_1392.jpg)](/images/uploads/2016/12/img_1392.jpg)
-
 Blowing away the cobwebs with a Boxing Day swim… well we watched 😋 
 
 Well done to so many brave souls for going in. It’s been a good few years since I went in. Maybe next year..! 

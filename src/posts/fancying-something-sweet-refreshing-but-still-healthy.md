@@ -14,8 +14,7 @@ excerpt: "Have you tried grape sorbets? Ingredients: grapes Method: put grapes i
 permalink: /fancying-something-sweet-refreshing-but-still-healthy/
 layout: layouts/post.njk
 ---
-
-![](/images/uploads/2019/06/e62ca778-088e-4aa9-b7be-9a99dcd79969.jpg)Have you tried grape sorbets?
+Have you tried grape sorbets?
 
 Ingredients: grapes
 

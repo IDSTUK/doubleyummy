@@ -15,8 +15,6 @@ permalink: /more-basil-please-mummy/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/10/img_5128.jpg)](/images/uploads/2017/10/img_5128.jpg)
-
 Tomato, basil and mozzarella for snack time today. The girls helped me to pick the basil leaves. I was really surprised at how much they loved eating the basil! We must be doing something right with getting them trained onto stronger flavours.   
 For their birthday party I arranged it to look like a peacock but it was gone before I managed to get a pic!  
 It’s a good idea to get some protein and carbs at snack time. We also had a couple of rhubarb and custard oaty bites (recipe coming soon!)  

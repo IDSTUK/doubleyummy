@@ -9,8 +9,6 @@ permalink: /more-than-your-daily-vitamin-c-requirement-in-just-one-kiwi/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/09/img_9810.jpg)](/images/uploads/2016/09/img_9810.jpg)
-
 Did you know that a medium kiwi (about 75g) gives you a mega 115% of your daily requirement of Vitamin C?
 
 I’m sure you will all know that Vitamin C is an important antioxidant which helping protect the body against free radical damage. But did you also know that it’s also needed for making collagen and certain neurotransmitters!

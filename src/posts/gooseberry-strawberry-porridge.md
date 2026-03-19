@@ -8,8 +8,7 @@ excerpt: "Gooseberry & strawberries stewed and served on our morning porridge. 
 permalink: /gooseberry-strawberry-porridge/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/07/img_8720.jpg)](/images/uploads/2016/07/img_8720.jpg)  
+  
 Gooseberry & strawberries stewed and served on our morning porridge.   
 So easy to do. Just top and tail the gooseberries (no need to chop). Add chunked up strawberries & allow to gently stew in a nonstick pan (or pop in the microwave for a quicker result!). 
 

@@ -8,8 +8,7 @@ excerpt: "Here we are enjoying the frosty grass whilst we let the chickens out t
 permalink: /why-one-monitoring-method-never-tells-you-the-truth/
 layout: layouts/post.njk
 ---
-
-![](/images/uploads/2017/01/img_1844.jpg)  
+  
 Here we are enjoying the frosty grass whilst we let the chickens out this midnight, but I digress 😂
 
 Today I went for a 50 minute walk pushing the buggy. It’s a walk that I do very regularly. I’ve had my activity tracker for 3 weeks now and I know it’s almost 5,000 steps, however when I’m pushing the buggy it doesn’t pick up all of my steps (today it says 1,700 for the walk). Initially this frustrated me as I’ve set a step target for the day which I wasn’t hitting despite long buggy walks! I’ve now realised I can put it in the log as an ‘activity’ session so at least it’s counting in some way. I love the way my tracker also looks at how many flights of stairs I’ve done as even when I’m not able to reach my step target I can go up and down the stairs a few extra times and hit this target 🎯😀

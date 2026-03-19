@@ -9,8 +9,6 @@ permalink: /a-hidden-cornish-gem/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/05/img_3501.jpg)](/images/uploads/2017/05/img_3501.jpg)
-
 This is the view from Terry’s sculpture park. What a talented man. 
 
 We appreciate his generosity in sharing his passion through creating this free to visit sculpture park with a spectacular view. Another great excuse to get outside for some active family fun. 

@@ -9,8 +9,6 @@ permalink: /deep-fill-ham-and-mega-veg-quiche-salad/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/08/4c5da23d-af8a-4249-a6a8-10868b111c84-1.jpg)](/images/uploads/2016/08/4c5da23d-af8a-4249-a6a8-10868b111c84-1.jpg)
-
 Sunday’s lunch in the beautiful sunshine. Quiche (recipe below) and salad. I actually added some balsamic glaze to mine and hubby’s but no time for extra photos!
 
 Adults: Mediterranean veg and ham quiche served with salad leaves (with a little olive oil), seeded bread, avocado, cherry tomatoes and grated carrot and cucumber (dressed in a little sesame oil, olive oil and lime juice). 

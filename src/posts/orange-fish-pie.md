@@ -11,7 +11,7 @@ layout: layouts/post.njk
 
 What’s for tea tonight..? 
 
-[![](/images/uploads/2017/05/img_3306.jpg)](/images/uploads/2017/05/img_3306.jpg)  
+  
 Orange fish pie! No actual oranges in here though. B is so into orange food that tonight is a treat for her 😂 a mix mash of sweet potatoes & potatoes and a layer of squash on top of a fish mix and burtolli beans in a parsley sauce.   
 Showing a preference for a certain colour of food is usually just a phase so try not to worry too much. Keep offering variety and get creative about what and how you serve foods.   
 One little boy that I saw about 9 years ago sticks in my mind. He only liked pink foods and drinks. This meant that he was eating a lot of sweet foods and was severely anaemic. He was withdrawn and would sit inside at playtime because he was too tired to go outside.   

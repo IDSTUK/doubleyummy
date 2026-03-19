@@ -9,8 +9,6 @@ permalink: /nuts-about-nuts/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/12/img_1148.jpg)](/images/uploads/2016/12/img_1148.jpg)
-
 The good news is that a new study indicates that this is great for your health. 
 
 The research team that looked lots  of (29) studies which reported results about nut consumption and health showed a positive association between consuming 20g nuts (a handful) of nuts per day and better health outcomes. 

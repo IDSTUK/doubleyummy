@@ -11,8 +11,6 @@ permalink: /do-you-want-to-keep-your-herbs-coming-for-longer/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2019/06/0f924b5d-390c-4c4d-9b78-8a12266eccb8.jpg)
-
 I learnt this top tip off my mum today: cut off the flowers and the plant will bush out and last longer 😍 🌱
 
 The girls love picking all of the leaves off when we’re cooking.

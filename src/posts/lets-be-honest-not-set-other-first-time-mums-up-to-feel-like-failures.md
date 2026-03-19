@@ -13,8 +13,6 @@ permalink: /lets-be-honest-not-set-other-first-time-mums-up-to-feel-like-failure
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2019/08/img_4080.jpg)
-
 Flashback to 3 years ago to celebrate #worldbreastfeedingweek 1-7th August.
 
 I found breastfeeding such a privilege. Before having my twins I feel that the struggle of initiating breastfeeding & the challenges of the first few weeks just weren’t talked about. I find this experience is shared by the majority of first time mums rather than the minority, to a greater or lesser degree.

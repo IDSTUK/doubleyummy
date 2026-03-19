@@ -9,8 +9,6 @@ permalink: /mini-me-deconstructed-pitta/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/08/img_9306-1.jpg)](/images/uploads/2016/08/img_9306-1.jpg)
-
 This is a lunch from a few weeks ago (late blog!). It was the first time the girls have had pitta bread (just turned 10 months). I think they could have coped with it for a while now we’ve just not had it!
 
 They had a mini me lunch. I had egg, cottage cheese (both of which are great lean forces of protein) and salad stuffed into a pitta alongside the last slice of ham and mega veg quiche. Including a rich source of protein in your meal helps increase satiety (keeps you feeling fuller for longer) as well as being important for growth (in children and young people) and cell regeneration.

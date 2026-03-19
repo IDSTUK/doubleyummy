@@ -9,8 +9,6 @@ permalink: /when-can-i-give-my-child-an-apple/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/02/img_2032.jpg)](/images/uploads/2017/02/img_2032.jpg)
-
 I’ll have your apple too please mummy…
 
 Some children can cope with eating a whole apple at a young age but for most it’s a good idea to slice and soften eg by steaming in the microwave. 

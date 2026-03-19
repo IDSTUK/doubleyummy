@@ -8,8 +8,7 @@ excerpt: "Today’s fruit mix stewed together and added to our morning porridge.
 permalink: /blackcurrants-blueberries-red-grapes/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/07/img_8761.jpg)](/images/uploads/2016/07/img_8761.jpg)  
+  
 Today’s fruit mix stewed together and added to our morning porridge. 
 
 Someone asked me how do I come up with the fruit combinations? Careful and imaginative planning you might think… Well very occasionally but usually just what’s in the fruit bowl, fridge and freezer! We prioritise the fruit that will go over the quickest and like to try new combinations 😍 I’d recommend this one. 

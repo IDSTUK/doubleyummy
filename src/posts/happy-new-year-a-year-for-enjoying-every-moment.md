@@ -8,8 +8,7 @@ excerpt: "Celebrating with some play dough fun 😀 These ice cube trays used to
 permalink: /happy-new-year-a-year-for-enjoying-every-moment/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/01/img_1540.jpg)](/images/uploads/2017/01/img_1540.jpg)  
+  
 Celebrating with some play dough fun 😀
 
 These ice cube trays used to have a very different function for celebrating the coming of a new year 😂

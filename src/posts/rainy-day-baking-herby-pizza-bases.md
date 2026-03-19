@@ -15,8 +15,6 @@ permalink: /rainy-day-baking-herby-pizza-bases/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/09/img_3116.jpg)
-
 Really simple to make and loads of fun.
 
 Recipe for the bases:

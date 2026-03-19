@@ -9,8 +9,6 @@ permalink: /if-you-dont-want-to-loose-the-best-pick-it-first/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/09/fa506b54-09e9-427f-9362-a6d5f09e41ef.jpg)](/images/uploads/2016/09/fa506b54-09e9-427f-9362-a6d5f09e41ef.jpg)
-
 Feeling very philosophical this morning 😍
 
 Happy 1st of September & ☀️ start of the Cornish indian summer to you. 

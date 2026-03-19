@@ -8,8 +8,7 @@ excerpt: "We all know that breast is best when it comes to feeding your baby in 
 permalink: /vitamin-d-breastfeeding-or-giving-less-than-500ml-of-formula/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/07/img_8924.jpg)](/images/uploads/2016/07/img_8924.jpg)  
+  
 We all know that breast is best when it comes to feeding your baby in the first 6 months (don’t stop reading if you’re mixed or formula feeding!). That message is very well promoted and rightly so but less talked about is the fact that from 6 months breast milk does not provide all of the nutrients that a growing baby needs to develop.   
 Controversial you may say..? Well not really there’s lots of evidence to support this. In fact WHO guidance states this and UK guidelines ([NHS choices](http://www.nhs.uk/conditions/pregnancy-and-baby/pages/vitamins-for-children.aspx)) recommend that alongside the introduction of solids a baby specific multi vitamin is given. If you didn’t take a pregnancy multi vitamin  then Vitamin D drops are recommended  for your baby/ies from 1 month of age. 
 

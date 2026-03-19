@@ -9,8 +9,6 @@ permalink: /mums-cottage-pie/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/02/img_2103.jpg)](/images/uploads/2017/02/img_2103.jpg)
-
 When you’ve tried to fit too many things into the day and are not sure how you’re going to do tea… then a text comes through ‘would you like to come for tea?’ YES PLEASE! 
 
 Mum’s cottage pie: 

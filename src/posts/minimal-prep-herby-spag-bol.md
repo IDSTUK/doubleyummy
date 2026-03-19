@@ -9,8 +9,6 @@ permalink: /minimal-prep-herby-spag-bol/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/09/img_9924.jpg)](/images/uploads/2016/09/img_9924.jpg)
-
 Well it was actually tagliatelle as we’d run out of spaghetti! The girls love wiggly foods like this. 
 
 A minimal prep dish courtesy of frozen veggies as we had people coming for tea and I had very little time to spare.  

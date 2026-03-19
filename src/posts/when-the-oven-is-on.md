@@ -9,8 +9,6 @@ permalink: /when-the-oven-is-on/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/02/img_2140.jpg)](/images/uploads/2017/02/img_2140.jpg)
-
 Last weeks’s fish pie. Sorry, I know that makes it two ‘mash meals’ that I’ve shared this week 😂
 
 Fish pie is almost a weekly occurrence in our house as it’s loved by all and a great way of getting those yummy and mega healthy omega 3 fats in. 

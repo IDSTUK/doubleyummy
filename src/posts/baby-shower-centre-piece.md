@@ -9,8 +9,6 @@ permalink: /baby-shower-centre-piece/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/08/img_9458.jpg)](/images/uploads/2016/08/img_9458.jpg)
-
 The centre piece at my friend’s baby shower. I didn’t make it but was so impressed I had to share. I love it when people get creative to make fruit and veg show pieces.
 
 It was such a great healthy spread and it was great to come away feeling fab rather than bloated with my blood sugar levels all over the place as I would probably gave if it was lovely ads of cakes (o would have had to sample several of course 😋). But best of all the girls had a fruit feast! 😍😍  

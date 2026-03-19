@@ -15,8 +15,6 @@ permalink: /love-it-like-it-learning-it/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/01/img_0473.jpg)
-
 Try to avoid saying that you or they hate or dislike foods when talking to children (and if you’re trying to change your own mindset!). The way we phrase things and the expression on our face can be more powerful than the taste of something when it comes to forming food preferences.
 
 When trying something new, a bit different (Like these sprouts being a different colour), or something that is still a ‘learning it’ food I suggest always including a ‘love it’ food (something that pretty much always goes on the plate) and a couple of ‘like it’ foods (something that they’re happy to eat but will eat other things first and will leave these foods if full).

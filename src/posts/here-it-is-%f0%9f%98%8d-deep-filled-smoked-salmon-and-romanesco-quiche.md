@@ -8,8 +8,7 @@ excerpt: "Ingredients:  Thinly rolled short crust pastry (4 oz plain flour, 1 o
 permalink: /here-it-is-%f0%9f%98%8d-deep-filled-smoked-salmon-and-romanesco-quiche/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/09/img_9844.jpg)](/images/uploads/2016/09/img_9844.jpg)  
+  
 
 ### Ingredients
 

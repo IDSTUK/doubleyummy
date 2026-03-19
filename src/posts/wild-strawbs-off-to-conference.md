@@ -14,8 +14,7 @@ excerpt: "Wild strawberries are ready 😍🍓🍓🍓🍓 keep your eyes peeled
 permalink: /wild-strawbs-off-to-conference/
 layout: layouts/post.njk
 ---
-
-![](/images/uploads/2018/06/img_2142.jpg)Wild strawberries are ready 😍🍓🍓🍓🍓 keep your eyes peeled as these little gems are a real treat.
+Wild strawberries are ready 😍🍓🍓🍓🍓 keep your eyes peeled as these little gems are a real treat.
 
 About to get on my flight to London for #CAHPO18 conference. So glad we got to do this earlier today #workingmum #worklifebalance
 

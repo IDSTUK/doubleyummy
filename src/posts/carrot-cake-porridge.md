@@ -8,8 +8,7 @@ excerpt: "This is an overnight porridge.  I took my inspiration from Instagram,
 permalink: /carrot-cake-porridge/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/08/img_9395.jpg)](/images/uploads/2016/08/img_9395.jpg)  
+  
 This is an overnight porridge.   
 I took my inspiration from Instagram, but in my usual style of cooking I looked at what I have in the cupboard / drudge / freezer and what I fancied & came up with my own version 😋 I know you’re supposed to make something as per the recipe the first time but it’s just not my style. 
 

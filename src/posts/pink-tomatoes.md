@@ -9,8 +9,6 @@ permalink: /pink-tomatoes/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/08/img_9361.jpg)](/images/uploads/2016/08/img_9361.jpg)
-
 Do you know what type of tomato these are? 🍅
 
 They’re on the left of the plate and I’ve not used a filter so that you can see their true colour (the red and yellow ones are there so that you can see how pink these tomatoes are).

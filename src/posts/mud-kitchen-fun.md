@@ -8,8 +8,7 @@ excerpt: "Cooking up a storm in the mud kitchen. Or should I say cooking in the 
 permalink: /mud-kitchen-fun/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/05/img_3160-1.jpg)](/images/uploads/2017/05/img_3160-1.jpg)  
+  
 Cooking up a storm in the mud kitchen. Or should I say cooking in the mud kitchen in the middle of a storm?! 
 
 After a beautiful walk in the blue bell woods with my friend a ‘little’ concerned about the creaking trees the winds got even stronger and trees started falling down. As we were told the gardens were closing a couple of slates left one of the roofs. 

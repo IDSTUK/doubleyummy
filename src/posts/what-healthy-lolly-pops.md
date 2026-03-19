@@ -15,8 +15,6 @@ permalink: /what-healthy-lolly-pops/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/07/img_4189.jpg)](/images/uploads/2017/07/img_4189.jpg)
-
 Yes so easy, yummy and healthy.   
 Simply chop up some fruit and mix into some Greek yoghurt and load into your lolly mold! Pop in the freezer and enjoy in the sunshine ☀️
 

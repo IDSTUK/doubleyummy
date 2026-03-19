@@ -9,8 +9,6 @@ permalink: /salt-free-stock-in-60-minutes/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/03/img_2164.jpg)](/images/uploads/2017/03/img_2164.jpg)
-
 As World Salt Awareness Week draws to a close I thought it’d be good to share our salt free stock recipe. 
 
 So why do we bother to go to the effort of making stock when you can just use a couple of stock cubes?

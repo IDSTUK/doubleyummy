@@ -9,8 +9,6 @@ permalink: /can-you-guess-what-were-about-to-make-using-these-foraged-three-corn
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/04/img_3084.jpg)](/images/uploads/2017/04/img_3084.jpg)
-
 Growing, foraging and collecting food is where the excitement starts with food in our house. It’s such a great way to connect with and appreciate what you’re eating. 
 
 Did you guess it? It’s three cornered leek humous:

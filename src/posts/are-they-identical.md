@@ -15,8 +15,6 @@ permalink: /are-they-identical/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/03/img_1031.jpg)
-
 This is something people ask me about my blonde and blue eyed daughter as she stranded next to her brunette brown eyed sister. Looks aside though their personalities are also very different.
 
 A good illustration of this is their food preferences. Although they’ll usually eat most things their preferences are clearly shown in the order that they eat. This is mid way through the meal this evening (roast lamb with boiled potatoes, sticky red cabbage and steamed carrots and leek.

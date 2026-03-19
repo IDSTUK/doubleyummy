@@ -9,8 +9,6 @@ permalink: /baby-paint/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/12/img_1134.jpg)](/images/uploads/2016/12/img_1134.jpg)
-
 Baby paint session @falmouthartgallery where we did have paper but bodies are more fun 😋 This was our first time and we loved it.
 
 As a mum to twins it can be nerve wracking trying a play session like this for the first time especially when W decided not to nap before the session..! But the staff were amazing – thank you 😍😍 such a fun and relaxed session – we loved it!

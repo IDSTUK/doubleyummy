@@ -8,8 +8,7 @@ excerpt: "Serving the same thing two ways adds variety with minimal faff! Great 
 permalink: /two-ways-tuna-potato/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/07/img_8692.jpg)](/images/uploads/2016/07/img_8692.jpg)  
+  
 Serving the same thing two ways adds variety with minimal faff! Great for us as my girls love variety and I dislike too much faff 😋  
 This is a bit of a use up left overs meal. Here we have broccoli (steamed), new potatoes (1/2 with a little sund
 

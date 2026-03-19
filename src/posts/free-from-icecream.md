@@ -8,8 +8,7 @@ excerpt: "Emma’s ‘icecream’ made in her Thermomix. A really creamy texture
 permalink: /free-from-icecream/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/08/img_9512.jpg)](/images/uploads/2016/08/img_9512.jpg)  
+  
 Emma’s ‘icecream’ made in her Thermomix. A really creamy texture with just frozen bananas, frozen pineapple and frozen mango.
 
 The whole family and guests loved it 😀☀️🍦

@@ -12,7 +12,7 @@ layout: layouts/post.njk
 ​​  
 ​Simple and healthy way to cook fish without the need to add more than a dash of oil. 
 
-[![](/images/uploads/2017/04/img_2832.jpg)](/images/uploads/2017/04/img_2832.jpg)  
+  
 Flaked fish cooked like this, streamed or poached is a great way to introduce it to babies. Fish is a common allergen though so if you’ve a family history of allergy follow the three day introduce and monitor 3 day rule.   
 Fish is such a great source of protein for all of the family. Lean white fish like the pollock used here is a very low in fat (pollock is typically 1.2% fat) and fattier fish like sardines and salmon are rich in the healthy long chain omega 3 fats which we could pretty much all do with eating more of. So that’s a win win. Either low fat or rich in good fats.   
 As a nation we seem to be stuck in a rut with how we eat most of our fish though, and although I try to avoid it we are often too. So last night I decided to do something I’ve not done in ages. This recipe would also be good with some chopped olives (another great source of healthy fats in the form of monounsaturated fat) or some chilli.   

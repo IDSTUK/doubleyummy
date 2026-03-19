@@ -8,8 +8,7 @@ excerpt: "Picture is the portion for my 11 month old neice.  Ingredients:  Lef
 permalink: /aunty-jens-multi-mash-croquettes/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/06/img_8156.jpg)](/images/uploads/2016/06/img_8156.jpg)  
+  
 Picture is the portion for my 11 month old neice. 
 
 ### Ingredients

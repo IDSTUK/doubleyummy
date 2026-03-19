@@ -9,8 +9,6 @@ permalink: /when-is-my-child-old-enough-to-eat-a-banana-from-the-skin/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/03/img_2514.jpg)](/images/uploads/2017/03/img_2514.jpg)
-
 Well to be honest there isn’t an age! 
 
 I started giving banana mashed and then in fingers (if you gently squeeze a banana it will split into three) which are easy to grab. 

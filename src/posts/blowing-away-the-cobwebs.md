@@ -9,8 +9,6 @@ permalink: /blowing-away-the-cobwebs/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/11/img_0865.jpg)](/images/uploads/2016/11/img_0865.jpg)
-
 Wellies on and we’re off to see if the chickens have laid any eggs.
 
 Sorry for lack of blogs we’ve a poorly girl. Sleep needed 💤💤💤 

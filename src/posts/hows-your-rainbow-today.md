@@ -8,8 +8,7 @@ excerpt: "What does your rainbow look like today?  Ours actually had some raisi
 permalink: /hows-your-rainbow-today/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/12/img_1125.jpg)](/images/uploads/2016/12/img_1125.jpg)  
+  
 What does your rainbow look like today? 
 
 Ours actually had some raisins in too and some other bits in the cottage pie (used up the other half of last weeks bolognaise topped with potato). 

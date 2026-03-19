@@ -9,8 +9,6 @@ permalink: /courgette-and-ham-risotto/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/11/img_0907.jpg)](/images/uploads/2016/11/img_0907.jpg)
-
 Sometimes the food you think they’ll want to use the spoon for is the food they love eating with their hands and vice versa. Saying that B used her spoon for every mouthful. W was is too much if a hurry to faff with the spoon 😂 
 
 We use homemade no added salt stock every time we roast a chicken which usually gives 3 pints of stock. This freezes well and is great to pull out for a yummy risotto. 

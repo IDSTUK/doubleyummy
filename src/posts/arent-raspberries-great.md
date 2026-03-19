@@ -14,8 +14,7 @@ excerpt: "Providing 1/3 of your daily Vitamin C requirements, 1/4 of your daily 
 permalink: /arent-raspberries-great/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/09/img_4849.jpg)](/images/uploads/2017/09/img_4849.jpg)  
+  
 Providing 1/3 of your daily Vitamin C requirements, 1/4 of your daily fibre requirements and only 43kcal per portion (80g) aren’t raspberries great?! (Figures for adults)Because of their high water content berries are a particularly low energy density food. 
 
 The range of raspberry varieties means that they are one of the first and one of the last fruits in season here in the U.K. 🇬🇧 

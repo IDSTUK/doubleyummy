@@ -8,8 +8,7 @@ excerpt: "Did you know that getting enough sleep is linked with a longer life ex
 permalink: /need-a-nap/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/02/img_2216.jpg)](/images/uploads/2017/02/img_2216.jpg)  
+  
 Did you know that getting enough sleep is linked with a longer life expectancy?! It doesn’t matter how old you are doing something to improve your sleep could significantly benefit your health and mental wellbeing. 
 
 I know that’s sometimes easier said than done as a parent and might mean going to bed without much of an evening..! 

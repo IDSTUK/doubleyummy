@@ -15,7 +15,7 @@ Big people’s:
 
 Little people’s:
 
-[![](/images/uploads/2017/05/img_3203.jpg)](/images/uploads/2017/05/img_3203.jpg)  
+  
 A very easy dish and lots of fun foraging for the wild garlic leaves (you could get some flowers too to garnish but we didn’t).   
 Ingredients:
 

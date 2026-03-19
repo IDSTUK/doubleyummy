@@ -9,8 +9,6 @@ permalink: /i-can-share/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/11/img_1003.jpg)](/images/uploads/2016/11/img_1003.jpg)
-
 Don’t they say that reading just before going to sleep is a great way of learning..? 
 
 Well let’s hope so as W insisted on take this book for a walk this morning 😋

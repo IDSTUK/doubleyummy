@@ -9,8 +9,6 @@ permalink: /dont-be-restricted-when-making-salad-%f0%9f%98%80/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/03/img_2580.jpg)](/images/uploads/2017/03/img_2580.jpg)
-
 This is the life! A ‘what’s in the fridge salad’ sat on Poldhu beach with family and friends. There’s no place I’d rather be!  
 This salad has a base of bistro beetroot mix topped with cucumber, chopped cherry tomatoes, chopped gherkin, boiled egg, pickled blackberries, 1/2 slice crispy smoked bacon broken into pieces and on the side a wholemeal muffin with hummous in. I loaded the muffin with the salad there and then rather than making it as a sandwich ahead because it stopped it going soggy and meant that I had lots more veggies than I would have had in a sandwich.  
 Sometimes the thought of prepping a salad can seem a lot of hassle but I find that when you do it next to making toddler lunches it throws together pretty quickly.  

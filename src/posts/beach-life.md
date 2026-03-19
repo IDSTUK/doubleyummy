@@ -14,6 +14,4 @@ permalink: /beach-life/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2019/06/img_3224.jpg)
-
 Just love the colours in this pic. No filters #beachdays #lovecornwall #balancedlife

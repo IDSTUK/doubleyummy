@@ -14,8 +14,6 @@ permalink: /portion-control-pitta-bread-pizza/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/06/img_3915.jpg)](/images/uploads/2017/06/img_3915.jpg)
-
 This is my lunch & the girls had a roughly half sized portion (ate 1/3 pitta each) with some additional cucumber sticks and I ate a carrot whilst prepping!  
 Sometimes I hear people say you can’t have too much of a good thing. If only this were true…  
 Grapes are a good example where it’s very easy to over consume. Try to stick to a cupped handful. Pictured is my cupped handful. If it’s for your child aim for their cupped handful.    

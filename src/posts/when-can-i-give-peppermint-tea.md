@@ -14,8 +14,7 @@ excerpt: "Admittedly not the most frequently asked question in my clinics! But s
 permalink: /when-can-i-give-peppermint-tea/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/07/img_3993.jpg)](/images/uploads/2017/07/img_3993.jpg)  
+  
 Admittedly not the most frequently asked question in my clinics! But something other than water / water is boring is.  
 
 We are always saying that variety is the spice, but then when it comes to drinks the advice tends to be water or milk (in moderation) with the occasional diluted fruit juice. 

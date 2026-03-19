@@ -9,8 +9,6 @@ permalink: /summer-berry-oaty-bites-for-gbbo-biscuit-week/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/09/img_9834-1.jpg)](/images/uploads/2016/09/img_9834-1.jpg)
-
 In the spirit of the #greatbritishbakeoff #biscuit week we’ve made a new flavour of our #babyfriendly oaty bites. 
 
 What are your favourite biscuits? Can you make them baby (and therefore more waistline 😋) friendly? Let me know your ideas. As these are simply oats and fruit they are high in fibre and relatively low in sugar and fat but still make a great snack. My girls get excited when they see the little tub come out 😍

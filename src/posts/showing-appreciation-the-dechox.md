@@ -8,8 +8,7 @@ excerpt: "Thank you! DoubleYummy now has 250 followers on Instagram 😀  How d
 permalink: /showing-appreciation-the-dechox/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/03/img_2350-1.jpg)](/images/uploads/2017/03/img_2350-1.jpg)  
+  
 Thank you! DoubleYummy now has 250 followers on Instagram 😀 
 
 How do you show your appreciation? These beautiful flowers make me smile every time I come into the room. No downside to a gift like this. 

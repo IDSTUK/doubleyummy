@@ -9,8 +9,6 @@ permalink: /eating-in-action-9-months-old/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/08/img_9446.jpg)](/images/uploads/2016/08/img_9446.jpg)
-
 Eating in action from a couple of weeks ago 😍 
 
 Picnic of humous pin wheel wraps (starchy carbs with protein spread), sticks of Edam cheese (milk based protein), cherry tomatoes which are at least quartered (fruit and veg) and minty pea & broad bean humous – see earlier blog for recipe (protein & fruit & veg), followed by a kiwi (fruit and veg) ☀️🐝🌼  

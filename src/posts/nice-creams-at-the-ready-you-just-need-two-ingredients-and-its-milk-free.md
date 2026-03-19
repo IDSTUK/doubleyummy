@@ -14,8 +14,6 @@ permalink: /nice-creams-at-the-ready-you-just-need-two-ingredients-and-its-milk-
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/06/img_3883.jpg)](/images/uploads/2017/06/img_3883.jpg)
-
 With all of this beautiful sunshine it’s nice to have a cold treat to help you cool down.   
 This nice cream is a guilt free healthy twist on traditional ice cream.   
 It’s easy to feel in the holiday mood and sometimes that means throwing healthy eating out of the window fir people. With this easy recipe there’s no need to.   

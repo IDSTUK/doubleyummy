@@ -14,8 +14,7 @@ excerpt: "Ingredients: Mashed banana  Plain Greek yoghurt (or milk free alterna
 permalink: /spiced-banana-yoghurt-ice-lollies/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/08/img_4327.jpg)](/images/uploads/2017/08/img_4327.jpg)   
+   
 Ingredients:
 
 Mashed banana 

@@ -11,8 +11,6 @@ layout: layouts/post.njk
 
 My salad:
 
-[![](/images/uploads/2017/01/img_1663.jpg)](/images/uploads/2017/01/img_1663.jpg)
-
 The girls salad:
 
 [![](/images/uploads/2017/01/img_1664.jpg)](/images/uploads/2017/01/img_1664.jpg)

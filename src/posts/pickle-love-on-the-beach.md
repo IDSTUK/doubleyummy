@@ -11,8 +11,7 @@ excerpt: "Happy Father’s Day 💙 Here are our little pickles with their daddy
 permalink: /pickle-love-on-the-beach/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/06/img_3802.jpg)](/images/uploads/2017/06/img_3802.jpg)  
+  
 Happy Father’s Day 💙 Here are our little pickles with their daddy enjoy the evening in the beach.   
 Where else would you want to have tea?!   
 We popped to the beach to meet some old friend’s who are back from Sydney. Some things in life change a lot but some things feel like it was only yesterday 😍  

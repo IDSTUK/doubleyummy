@@ -14,5 +14,4 @@ excerpt: "Love our breakfast conversations ‘Mummy can you send a picture of my
 permalink: /breakfast-conversations/
 layout: layouts/post.njk
 ---
-
-![](/images/uploads/2019/06/img_3218.jpg)Love our breakfast conversations ‘Mummy can you send a picture of my rainbow to Uncle Dan. He’ll be proud!’ They’re both into people being proud of them at the moment 😊#porridge #proud
+Love our breakfast conversations ‘Mummy can you send a picture of my rainbow to Uncle Dan. He’ll be proud!’ They’re both into people being proud of them at the moment 😊#porridge #proud

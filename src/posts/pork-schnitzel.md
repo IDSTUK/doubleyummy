@@ -9,8 +9,6 @@ permalink: /pork-schnitzel/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/08/img_9318-2.jpg)](/images/uploads/2016/08/img_9318-2.jpg)
-
 How to make this yummy schnitzel:
 
 Bash a pork steak with a rolling pin until it’s very thin. 

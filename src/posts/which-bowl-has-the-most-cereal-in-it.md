@@ -8,8 +8,7 @@ excerpt: "The bowl / crockery that you use can have a big impact on how much you
 permalink: /which-bowl-has-the-most-cereal-in-it/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/04/img_3072.jpg)](/images/uploads/2017/04/img_3072.jpg)  
+  
 The bowl / crockery that you use can have a big impact on how much you (and your children) eat. 
 
 We do a lot of our ‘eating’ with our eyes. I think they say it’s about 50% down to eat we see eg ford it look appealing?, does it look enough? does it look like we’ve eaten enough?  

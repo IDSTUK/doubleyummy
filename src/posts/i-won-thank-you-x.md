@@ -21,7 +21,5 @@ layout: layouts/post.njk
 
 I get to use this logo too!
 
-[![](/images/uploads/2017/09/cn_awards_logo_winner_rgb.jpg)](/images/uploads/2017/09/cn_awards_logo_winner_rgb.jpg)
-
 The annual CN Awards were launch in 2010 by Complete Media & Marketing Ltd. (CM2) – the publishers of Complete Nutrition (CN) Magazines. CM2 do not endorse any particular individual’s, group’s, organisation’s or company’s products, services, resources, views or opinions. For further details on the CN Awards, visit: www.nutrition2me.com/cn-awards  
 #iwon #thankyou #fortheteam #cnawards #paediatricnutritionprofessionaloftheyear #paediatricdietitian #dietitian #registereddietitian #nutritionexpert #nutritionist

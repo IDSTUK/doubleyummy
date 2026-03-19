@@ -16,8 +16,6 @@ permalink: /tomato-and-cucumber-salad-to-start/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/03/img_1226.jpg)
-
 Simple tomato and cucumber salad with a little vinaigrette drizzled over. So easy to do and a great start dinner this evening.
 
 We popped this out on the table to keep the girls happy whilst the finishing touches were happening to the main.

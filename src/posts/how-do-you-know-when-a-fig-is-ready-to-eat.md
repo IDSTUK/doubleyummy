@@ -8,8 +8,7 @@ excerpt: "Wait until it’s a dark purple colour, dropping and has a bead of syr
 permalink: /how-do-you-know-when-a-fig-is-ready-to-eat/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/08/img_9703.jpg)](/images/uploads/2016/08/img_9703.jpg)  
+  
 Wait until it’s a dark purple colour, dropping and has a bead of syrup dripping from it (see bottom left pic). 
 
 Homegrown fresh figs on our ‘carrot cake oats’ with a dollop of yoghurt. What a way to start a Bank Holiday Monday. 

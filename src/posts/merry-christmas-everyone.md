@@ -13,8 +13,6 @@ permalink: /merry-christmas-everyone/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2017/12/img_0394.jpg)
-
 Thanks for all of your support and kind wishes this year. Hope you’re having a wonderful family day.
 
 Here are my wee angels looking for fish in the neighbour’s pond. You can’t beat some fresh air to burn off some energy!

@@ -9,8 +9,6 @@ permalink: /getting-ahead-with-overnight-oats/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/10/img_0344.jpg)](/images/uploads/2016/10/img_0344.jpg)
-
 A nice big dollop of yoghurt on this carrot cake porridge. Thanks to Beej for sharing this pic of her breakfast this morning.
 
 We’ve been enjoying it too as I find being able to prep for breakfast the night before a big help on work mornings. I need to be out of the house by 7am but I don’t want this to compromise my girls food.

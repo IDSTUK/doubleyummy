@@ -9,8 +9,6 @@ permalink: /saturdays-steak-night-%f0%9f%98%8d/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/10/img_0300.jpg)](/images/uploads/2016/10/img_0300.jpg)
-
 Steak and herby wedges with steamed carrot batons and greens, and roasted squash (roasted with some fresh sage and halved garlic bulbs) mixed with cream cheese.
 
 Now I have to be honest the squash was just going to be wedges too but I left them in the oven too long and they became a bit dry. As there was plenty in the plate with out this mix the girls didn’t eat much of it.

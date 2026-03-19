@@ -11,7 +11,7 @@ layout: layouts/post.njk
 
 Keeping sour preferences. 
 
-[![](/images/uploads/2017/03/img_2338.jpg)](/images/uploads/2017/03/img_2338.jpg)  
+  
 When we started our introducing solids journey I was very conscious that I regularly gave sour and bitter tastes and avoided sweetening things even with naturally sweet fruit and veg. This is because evidence suggests that promoting these tastes at the beginning helps with taste preferences on the long term. 
 
 They did pull a face when I gave sour tastes but who doesn’t?! It doesn’t mean they don’t like them it’s just a natural reaction. Your own expression at these times is so important as a reassuring smile from you will make all of the difference. 

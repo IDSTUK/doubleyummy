@@ -15,8 +15,6 @@ permalink: /lunch-for-me-and-my-toddlers-in-10-minutes-flat/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/01/img_0517.jpg)
-
 Method: Boil a pan of water. Pop in some eggs to boil for 6-8 mins depending on their size.
 
 Meanwhile pop some bread in the toaster, open a can of sweetcorn, wash top and tail a few carrots and grab a couple of handfuls of salad leaves. And assemble on your plates.

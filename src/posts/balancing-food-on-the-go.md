@@ -14,8 +14,7 @@ excerpt: "A quick lunch on the go before this afternoons CN awards ceremony.  L
 permalink: /balancing-food-on-the-go/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/09/img_4840.jpg)](/images/uploads/2017/09/img_4840.jpg)  
+  
 A quick lunch on the go before this afternoons CN awards ceremony. 
 
 Lots of tastes that I really love here brought together. 

@@ -8,8 +8,7 @@ excerpt: "Whenever it makes sense to I cook double (or more) or do. I can then p
 permalink: /leftovers-dont-you-just-love-them/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/01/img_1802.jpg)](/images/uploads/2017/01/img_1802.jpg)  
+  
 Whenever it makes sense to I cook double (or more) or do. I can then pop it in the fridge or freezer and have my own ‘ready meal’ with the bonus of convenience and the knowledge of great ingredients and no hidden fats, salt or sugar as you often find in many processed meals. 
 
 It also makes financial sense as you’re not only buying in bulk but also only having the cooker (hob or oven) on for the ‘long cook’ once.  

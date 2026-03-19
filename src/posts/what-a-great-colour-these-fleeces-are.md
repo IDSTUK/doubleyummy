@@ -13,8 +13,7 @@ excerpt: "Meeting the sheep at Stithians Show today.  The girls loved watching 
 permalink: /what-a-great-colour-these-fleeces-are/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/07/img_4105.jpg)](/images/uploads/2017/07/img_4105.jpg)  
+  
 Meeting the sheep at Stithians Show today. 
 
 The girls loved watching the carding and spinning of the fleece too.   

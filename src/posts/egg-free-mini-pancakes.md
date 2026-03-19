@@ -15,8 +15,6 @@ permalink: /egg-free-mini-pancakes/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/07/img_4153.jpg)](/images/uploads/2017/07/img_4153.jpg)
-
 Ingredients:
 
 200g self-raising flour, 

@@ -15,8 +15,6 @@ permalink: /healthier-raw-or-cooked/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/08/img_4462.jpg)](/images/uploads/2017/08/img_4462.jpg)
-
 After dinner treat: Yellow tomatoes from the greenhouse. So sweet and delicious they’re like a pudding (well nearly 😂)! There’s nothing like eating in season 😍🍅 
 
 Typically the closer that you eat fruits and veg from the time / day that they’re picked the higher the concentration of vitamins and minerals (micronutrients).   

@@ -9,8 +9,6 @@ permalink: /can-you-guess-what-it-is/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/11/img_0767.jpg)](/images/uploads/2016/11/img_0767.jpg)
-
 I love these giant citrus fruit which are now in season (or now in the shops!).
 
 Today B&W had it for the first time and they couldn’t get enough! I peel the segment skins off which is pretty easy to do.

@@ -8,8 +8,7 @@ excerpt: "Steamed salmon, broccoli and carrots served with paprika & herby sweet
 permalink: /which-are-the-superfoods/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/11/img_0954.jpg)](/images/uploads/2016/11/img_0954.jpg)  
+  
 Steamed salmon, broccoli and carrots served with paprika & herby sweet potato wedges. 
 
 Salmon is a great source of protein rich in the mega healthy omega 3 fatty acids – so surely it’s the salmon..?

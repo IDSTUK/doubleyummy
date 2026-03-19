@@ -15,8 +15,6 @@ permalink: /happy-sunday-everyone-make-it-achievable/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/07/img_2381.jpg)
-
 🍉☀️ couldn’t resist a slice of #watermelon in the sun for a post run second #breakfast
 
 It’s not a long run (25mins) but this means it fits in with most family plans for the day and we are pretty consistent in doing it every week. It’s better to do something regularly than make your goal less achievable. Then when you achieve it more often or go further than your target it feels great too!

@@ -9,8 +9,6 @@ permalink: /kitchen-helper/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/11/img_0900.jpg)](/images/uploads/2016/11/img_0900.jpg)
-
 Whisking cucumber chunks whilst I make the risotto. 
 
 Getting involved in the kitchen doesn’t always need to be actually cooking the dinner when you’re 13 months old 😋 but being ‘involved’ is a great way to encourage fussy eaters to explore textures and interact with food without the pressure of sitting in front of it at the dinner table. 

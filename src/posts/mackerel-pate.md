@@ -14,8 +14,7 @@ excerpt: "The mackerel are in! Now making all things mackerel 😂 here’s my m
 permalink: /mackerel-pate/
 layout: layouts/post.njk
 ---
-
-![](/images/uploads/2018/07/img_2533.jpg)The mackerel are in! Now making all things mackerel 😂 here’s my mackerel pate wrap. Sliced gherkins, lettuce, rocket, raspberries and a drizzle of Caesar dressing to accompany my mackerel pate and it was yummy!
+The mackerel are in! Now making all things mackerel 😂 here’s my mackerel pate wrap. Sliced gherkins, lettuce, rocket, raspberries and a drizzle of Caesar dressing to accompany my mackerel pate and it was yummy!
 
 To make the pate whizz together a mackerel fillet with some cream cheese (approx 2:1 mackerel: cream cheese but this can be adjusted to taste), zest and juice of 1/2 small lime and a generous few grinds of black pepper.
 

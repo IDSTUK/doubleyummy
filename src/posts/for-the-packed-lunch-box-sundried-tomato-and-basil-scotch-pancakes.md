@@ -9,8 +9,6 @@ permalink: /for-the-packed-lunch-box-sundried-tomato-and-basil-scotch-pancakes/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/09/img_0186.jpg)](/images/uploads/2016/09/img_0186.jpg)
-
 A great alternative to bread and as you’re in control of what goes in they can be no added salt and sugar free.   
 Ingredients:
 

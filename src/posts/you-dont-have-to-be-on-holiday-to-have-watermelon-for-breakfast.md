@@ -9,8 +9,6 @@ permalink: /you-dont-have-to-be-on-holiday-to-have-watermelon-for-breakfast/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/06/img_7846.jpg)](/images/uploads/2016/06/img_7846.jpg)
-
 Watermelon for self feeding alongside our porridge (Ready Brek and porridge oats with Greek yoghurt) went down a treat for breakfast this morning. 
 
 [![](/images/uploads/2016/06/img_7837.jpg)](/images/uploads/2016/06/img_7837.jpg)

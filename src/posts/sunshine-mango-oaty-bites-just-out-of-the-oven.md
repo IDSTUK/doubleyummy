@@ -15,8 +15,6 @@ permalink: /sunshine-mango-oaty-bites-just-out-of-the-oven/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/08/img_4223.jpg)](/images/uploads/2017/08/img_4223.jpg)
-
 Ingredients:
 
 1 banana 

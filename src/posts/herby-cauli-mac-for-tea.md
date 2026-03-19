@@ -8,8 +8,7 @@ excerpt: "For tonight’s version simply pop the oven in to preheat (about 160�
 permalink: /herby-cauli-mac-for-tea/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/12/img_1262.jpg)](/images/uploads/2016/12/img_1262.jpg)  
+  
 For tonight’s version simply pop the oven in to preheat (about 160’C fan) boil the macaroni and steam the cauliflower over the top. 
 
 Whilst that is cooking heat a little oil in a milk pan and then whisk in a couple of tablespoons of plain flour. Once combined gradually add the milk (about 350-400ml) and stir very regularly to ensure it doesn’t go lumpy, until it thickens. 

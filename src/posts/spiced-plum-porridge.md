@@ -8,8 +8,7 @@ excerpt: "Hurray plums are in season! Eating in season means that you are eating
 permalink: /spiced-plum-porridge/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/08/img_9489.jpg)](/images/uploads/2016/08/img_9489.jpg)  
+  
 Hurray plums are in season! Eating in season means that you are eating foods at their most nutritious. 
 
 Just porridge oats, a dash of mixed spice and some fresh plums cut into little chunks. All cooked together in the microwave.

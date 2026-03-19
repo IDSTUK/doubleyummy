@@ -8,8 +8,7 @@ excerpt: "At what age can I give shellfish? This is something that I get asked r
 permalink: /what-can-i-introduce-shellfish-mussels-on-the-bbq-for-lunch/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/05/img_3524.jpg)](/images/uploads/2017/05/img_3524.jpg)  
+  
 At what age can I give shellfish? This is something that I get asked regularly. The answer is that it’s fine to include properly cooked shellfish as part of the introducing solids (weaning) journey. 
 
 Do be aware that shellfish is on the list of common allergens and so if you have a family history of allergy or eczema it’s recommended that you have it as the only bee food that day and don’t introduce anything new again for 3 days so that you can monitor for symptoms.   

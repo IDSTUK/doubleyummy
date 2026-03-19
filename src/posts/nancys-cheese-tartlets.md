@@ -8,8 +8,7 @@ excerpt: "We’re lucky enough to have been given our friends family recipe for 
 permalink: /nancys-cheese-tartlets/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/08/img_9490.jpg)](/images/uploads/2016/08/img_9490.jpg)  
+  
 We’re lucky enough to have been given our friends family recipe for these yummy easy cheese tartlets. 
 
 ### Ingredients

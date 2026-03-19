@@ -9,8 +9,6 @@ permalink: /how-do-you-show-your-appreciation/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/01/img_1760.jpg)](/images/uploads/2017/01/img_1760.jpg)
-
 Letting others know that you appreciate them can be a really powerful thing. Sometimes you can be surrounded by people but still feel lonely, yet other times you might be on your own but still feel connected.   
 Feeling ‘part of something’ is really important for our overall wellbeing.   
 Today is supposed to be ‘blue Monday’ so I’d like you to take a moment and think of someone that you can tell how much you appreciate them.   

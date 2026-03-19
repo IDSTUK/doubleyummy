@@ -8,8 +8,7 @@ excerpt: "This is our roasted chicken and squash risotto. We roasted double the 
 permalink: /could-you-double-the-veggies-you-roast-this-weekend/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/01/img_1675.jpg)](/images/uploads/2017/01/img_1675.jpg)  
+  
 This is our roasted chicken and squash risotto. We roasted double the veggies (squash, sweet potato, carrot, parsnip, garlic and onion) earlier in the week and are enjoying the benefits! 
 
 We made a low salt stock from the chicken carcass in the pressure cooker so this is a really family friendly meal suitable from the start of weaning (once you’ve tried the individual foods). 

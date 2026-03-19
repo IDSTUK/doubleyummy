@@ -9,8 +9,6 @@ permalink: /ahps-into-action-in-cornwall-the-day-job/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/06/img_3572.jpg)](/images/uploads/2017/06/img_3572.jpg)
-
 Feeling inspired by the AHPs into Action conference this morning. A massive well done to everyone involved. 
 
 It was so good to hear about the outstanding work that other AHPs (Allied Health Professionals) are doing across Cornwall and the inspiring key note speech for Suzanne Rasterick the CAHPO for the DoH.   

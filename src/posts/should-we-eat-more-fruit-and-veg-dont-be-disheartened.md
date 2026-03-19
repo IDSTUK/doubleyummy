@@ -8,8 +8,7 @@ excerpt: "We all know that eating fruit and veg is good for us. The 5-a-day camp
 permalink: /should-we-eat-more-fruit-and-veg-dont-be-disheartened/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/02/img_2145.jpg)](/images/uploads/2017/02/img_2145.jpg)  
+  
 We all know that eating fruit and veg is good for us. The 5-a-day campaign has successfully got that message across. Whether or not we achieve it is another thing. Is it really that good or is it just another arbitrary target that some well meaning out of touch health professional set?
 
 Today researchers at Imperial College London have released their results from a big study where they pooled data from 95 studies and they have found some really positive results. 

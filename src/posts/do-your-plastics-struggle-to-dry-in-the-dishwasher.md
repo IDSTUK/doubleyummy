@@ -8,8 +8,7 @@ excerpt: "Top tip (courtesy of my sister) is to alternate your normal crockery w
 permalink: /do-your-plastics-struggle-to-dry-in-the-dishwasher/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/08/img_9531.jpg)](/images/uploads/2016/08/img_9531.jpg)  
+  
 Top tip (courtesy of my sister) is to alternate your normal crockery with your plastic.
 
 The normal crockery heats up in the dishwasher which enables it to dry. The plastic crockery doesn’t heat up in the same way and that’s why it does dry as effectively.

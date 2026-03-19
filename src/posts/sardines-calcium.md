@@ -8,8 +8,7 @@ excerpt: "What are we eating for lunch today? (food groups in brackets): Sardine
 permalink: /sardines-calcium/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/08/img_9557-1.jpg)](/images/uploads/2016/08/img_9557-1.jpg)What are we eating for lunch today? (food groups in brackets): Sardines (non-milk protein) in tomato sauce & cream cheese (milk protein) blitzed together to make a tasty paste and spread on soldiers of toast (starchy carbs). Mandarins segments halved and chopped cucumber (fruit and veg).
+What are we eating for lunch today? (food groups in brackets): Sardines (non-milk protein) in tomato sauce & cream cheese (milk protein) blitzed together to make a tasty paste and spread on soldiers of toast (starchy carbs). Mandarins segments halved and chopped cucumber (fruit and veg).
 
 This lunch has given us a great mix of nutrients, was easy to prepare and great finger food for our ever increasingly independent eaters! To make milk free just leave out the cream cheese. The sardines will make a great paste with or without it.  
 Did you know that not only are sardines a great non-milk protein and healthy omega-3 fats, but they’re an excellent source of calcium too.  

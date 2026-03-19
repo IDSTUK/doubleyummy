@@ -8,8 +8,7 @@ excerpt: "Incorporating activity, helping you and your children to monitor progr
 permalink: /keeping-motivated-you-and-your-children/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/04/img_2783.jpg)](/images/uploads/2017/04/img_2783.jpg)  
+  
 Incorporating activity, helping you and your children to monitor progress and staying motivated are the topics for today.   
 Are there any little tricks that you do to incorporate activity into your day?   
 My new ones are squatting whilst doing my teeth (we’ll see how long I’m motivated to keep that one up when tired in the evening 😂) and going to the toilets on a different floor.   

@@ -11,8 +11,6 @@ layout: layouts/post.njk
 
 A quick one tonight (less than 10 minutes from turning the kettle on to going into their mouths) as we’ve had a very busy day!
 
-[![](/images/uploads/2016/07/img_8492.jpg)](/images/uploads/2016/07/img_8492.jpg)
-
 ### Ingredients
 
  

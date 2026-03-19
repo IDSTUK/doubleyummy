@@ -8,8 +8,7 @@ excerpt: "Ham and parsley sauce. Served with mashed potato, green beans, multico
 permalink: /ham-and-parsley-sauce-with-spiced-red-cabbage/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/02/img_1980.jpg)](/images/uploads/2017/02/img_1980.jpg)  
+  
 Ham and parsley sauce. Served with mashed potato, green beans, multicoloured carrots and spiced red cabbage. 
 
 Pop the ham in the pressure cooker for 45 minutes, boiling it reduces the salt content a little. 

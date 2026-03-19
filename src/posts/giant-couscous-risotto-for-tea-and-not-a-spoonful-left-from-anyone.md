@@ -15,8 +15,6 @@ permalink: /giant-couscous-risotto-for-tea-and-not-a-spoonful-left-from-anyone/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/09/img_4851.jpg)](/images/uploads/2017/09/img_4851.jpg)
-
 Simpler (much less stiring!) and cheaper than using risotto rice I’ll definitely be making this a regular one 😍   
 Ingredients (served 3 adults and two toddlers):
 

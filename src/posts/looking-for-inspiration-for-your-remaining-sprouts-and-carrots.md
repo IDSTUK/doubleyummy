@@ -9,8 +9,6 @@ permalink: /looking-for-inspiration-for-your-remaining-sprouts-and-carrots/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/12/img_1393.jpg)](/images/uploads/2016/12/img_1393.jpg)
-
 This is a light and fresh tasting dish from last week which was a big hit. 
 
 Steamed fish (this was ling but it really doesn’t matter – just use what you have / fancy), grilled (leftover) mashed potatoes & stir fried veggies. 

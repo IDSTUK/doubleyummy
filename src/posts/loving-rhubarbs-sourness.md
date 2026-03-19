@@ -9,8 +9,6 @@ permalink: /loving-rhubarbs-sourness/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/07/img_9095.jpg)](/images/uploads/2016/07/img_9095.jpg)
-
 Fresh rhubarb from my friends garden (ours isn’t strong enough to cut much this year, hopefully next year).  
 I stewed this down in its own. We big people enjoyed it with my mums yummy raspberry coconut cheesecake and the girls had some alongside raspberries 😍
 

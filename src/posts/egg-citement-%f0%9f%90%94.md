@@ -9,8 +9,6 @@ permalink: /egg-citement-%f0%9f%90%94/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/09/img_9855.jpg)](/images/uploads/2016/09/img_9855.jpg)
-
 A double yolker 😍 what a treat. There’s always been excitement at a double yolk egg in our house, but now that I’m a twin mummy they make me feel extra happy 💖💖 
 
 Eggs are a really great source of protein and vitamins and minerals including Vitamin D, Vitamin A, Vitamin 2, Vitamin 12, folate & iodine. 

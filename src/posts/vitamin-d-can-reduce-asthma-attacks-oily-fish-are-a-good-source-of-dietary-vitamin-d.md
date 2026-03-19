@@ -8,8 +8,7 @@ excerpt: "For tea we had the yummy oily fish salmon with romanesco, mash & cabba
 permalink: /vitamin-d-can-reduce-asthma-attacks-oily-fish-are-a-good-source-of-dietary-vitamin-d/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/09/img_9994.jpg)](/images/uploads/2016/09/img_9994.jpg)  
+  
 For tea we had the yummy oily fish salmon with romanesco, mash & cabbage. I formed the mash into balls so that easier as finger food for the girls. 
 
 It seems that more and more benefits of Vitamin D, the ‘sunshine vitamin’ are being found everyday. Links with diseases like cancer and rickets and now asthma. In recognition of this the NHS guidelines for giving Vitamin D drops to babies changed in July to recommending that they’re given from birth for all breastfed babies (previously it was from 6 months or if mothers were not taking a supplement themselves) and formula or mixed fed babies taking less than 500ml formula. To read more on this see [NHS Choices](http://www.nhs.uk/conditions/pregnancy-and-baby/pages/vitamins-for-children.aspx). 

@@ -10,5 +10,4 @@ excerpt: "Love is in the air this Christmas 😍🎄 here our ‘cuddle carrots�
 permalink: /cuddly-christmas-carrots/
 layout: layouts/post.njk
 ---
-
-![](/images/uploads/2019/06/img_3211.jpg)Love is in the air this Christmas 😍🎄 here our ‘cuddle carrots’ that will be left out for Father Christmas & his crew #love #christmaseve #carrots #cuddle #happychrismas #dietitian
+Love is in the air this Christmas 😍🎄 here our ‘cuddle carrots’ that will be left out for Father Christmas & his crew #love #christmaseve #carrots #cuddle #happychrismas #dietitian

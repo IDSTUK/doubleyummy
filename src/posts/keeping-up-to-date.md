@@ -9,8 +9,6 @@ permalink: /keeping-up-to-date/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/12/img_1165.jpg)](/images/uploads/2016/12/img_1165.jpg)
-
 Feeling inspired today after attending a jam packed update day put on by the Obesity Group of the BDA.
 
 Very proud of my colleagues and feeling good about being part of something that is driving forward change for the health of the nation.

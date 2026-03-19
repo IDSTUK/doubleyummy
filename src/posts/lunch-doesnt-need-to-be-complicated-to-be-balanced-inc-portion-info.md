@@ -9,8 +9,6 @@ permalink: /lunch-doesnt-need-to-be-complicated-to-be-balanced-inc-portion-info/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/02/img_2217.jpg)](/images/uploads/2017/02/img_2217.jpg)
-
 Here we have elemental cheese cut into little fingers, 1/3 wrap folded in half, with a thin spread of peanut butter and cut into wedges, a couple of cherry tomatoes quartered and some black grapes quartered.   
 I quarter the grapes and cherry tomatoes to reduce the choking risk. It’s also a good idea to spread peanut butter thinly as in big dollops it can be very claggy which makes it much more difficult to swallow too. 
 

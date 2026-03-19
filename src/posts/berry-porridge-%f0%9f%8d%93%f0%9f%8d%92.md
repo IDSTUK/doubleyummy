@@ -8,8 +8,7 @@ excerpt: "Mixed berry porridge today. Make your porridge how you like / have tim
 permalink: /berry-porridge-%f0%9f%8d%93%f0%9f%8d%92/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/06/img_7734-1.jpg)](/images/uploads/2016/06/img_7734-1.jpg)  
+  
 Mixed berry porridge today. Make your porridge how you like / have time to do & microwave a large handful of froze mixed berries until warmed through. Add berries to porridge & enjoy 😀☀️💖  
 Frozen berries are a great way of having delicious fruit that doesn’t go off. You can use just the amount that you need so less waste and they’re cheaper (especially the value mixes like this one!), but most importantly they’re so good for you. Berries tend to be some of the lower sugar fruits yet are still packed full of great vitamins. 
 

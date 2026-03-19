@@ -15,8 +15,6 @@ permalink: /festival-fun/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2019/06/img_3227.jpg)
-
 So much family fun at #greatestatefestival this weekend ✌️💃🏻🕺🏻🌺
 
 #familytime #festival #cornwall

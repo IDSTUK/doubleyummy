@@ -9,8 +9,6 @@ permalink: /colourful-lunch-%f0%9f%8c%88/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/09/img_9863.jpg)](/images/uploads/2016/09/img_9863.jpg)
-
 How is your rainbow looking today? As a general rule coloured fruits and veggies have different nutrients in them so eating a rainbow regularly is a great approach to balanced eating. 
 
 We had figs with our porridge this morning (purple) and banana (yellow) for snack this morning so maybe some carrots and / or a satsuma this afternoon / evening to complete ours today! 💖🌈

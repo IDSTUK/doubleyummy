@@ -8,8 +8,7 @@ excerpt: "Cottage cheese and grapes on granary toast.  Cottage cheese is a grea
 permalink: /mummy-snack-1/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/06/img_7872.jpg)](/images/uploads/2016/06/img_7872.jpg)Cottage cheese and grapes on granary toast. 
+Cottage cheese and grapes on granary toast. 
 
 Cottage cheese is a great high protein and low fat food. I have the full fat version though as I find it so much tastier & satisfying so I’m not searching for something else ‘because I had the low fat cheese’! The protein gives a feeling of satiety that you don’t get from a perky carby food to help me feel fuller for longer. 
 

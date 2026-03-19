@@ -8,5 +8,4 @@ excerpt: "Our #eastertree before it gets packed away. Both girls loved hanging t
 permalink: /easter-with-less-of-a-chocolate-focus/
 layout: layouts/post.njk
 ---
-
-![](/images/uploads/2019/06/img_3221.jpg)Our #eastertree before it gets packed away. Both girls loved hanging the decorations. What things did you do this Easter that weren’t associated with chocolate? Right it’s time to tidy! #mumlife
+Our #eastertree before it gets packed away. Both girls loved hanging the decorations. What things did you do this Easter that weren’t associated with chocolate? Right it’s time to tidy! #mumlife

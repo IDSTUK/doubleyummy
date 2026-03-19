@@ -9,8 +9,6 @@ permalink: /sweet-potato-fish-cakes-with-guacamole-and-minty-yoghurt-served-with
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/06/img_3664.jpg)](/images/uploads/2017/06/img_3664.jpg)
-
 A great Sunday evening tea. We had some left over multi-mash in the fridge to use up (this time it was 50:50 potatoes to sweet potatoes but it could have been a combo of any roots) so this was extra quick and easy. 
 
 Method: quickly steamed a couple of fillets of basa (very good value white fish from the fish monger or the freezer section) or similar, chop up some fresh herbs (a big handful of chives and oregano as these were on hand but parsley or thyme would also work really well or use dried if you don’t have fresh just use less) and then stir it all together with the mash and an egg. 

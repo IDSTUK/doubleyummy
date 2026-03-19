@@ -8,8 +8,7 @@ excerpt: "I thought it’d be useful to share a recipe that is good for lots of 
 permalink: /squash-and-black-eye-bean-hash-served-with-avocado/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/07/2df135d9-ec78-4a14-b06d-5ffa4a060634.jpg)](/images/uploads/2016/07/2df135d9-ec78-4a14-b06d-5ffa4a060634.jpg)  
+  
 I thought it’d be useful to share a recipe that is good for lots of you / your little people who are having to follow a free from milk / soya / egg / nut / gluten / wheat / fish free diet (sorry if your allergen us pulses!). It can be so hard ensuring that you have / give a balanced diet when on a food restriction. I’m planning to go back through my previous blogs to tag with the appropriate free from labels so that you can search for things we’ve done along the way. Hope that’s useful 😘  
 
 ### Ingredients

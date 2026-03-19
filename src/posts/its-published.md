@@ -9,8 +9,6 @@ permalink: /its-published/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/09/img_0199.jpg)](/images/uploads/2016/09/img_0199.jpg)
-
 My case study made the final edit 😍 This is the new textbook which accompanies the principle dietetic textbook in the UK. 
 
 #published #paediatricdietitian #registereddietitian #dietitian #casestudy #professional #doubleyummy

@@ -9,8 +9,6 @@ permalink: /balancing-the-festivities/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/12/img_1263.jpg)](/images/uploads/2016/12/img_1263.jpg)
-
 At this time of plenty it’s good to try and have a healthy lunch / meal when you’ve got the chance. 
 
 This is my packed lunch from Thursday:

@@ -9,8 +9,6 @@ permalink: /the-psychology-of-food/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/02/img_2020.jpg)](/images/uploads/2017/02/img_2020.jpg)
-
 Love is in the air! What role does food play in your life? What do you use food for?   
 We enjoyed this heart shaped pasta for tea tonight as it’s Valentine’s Day 💖   
 Today I had a excellent clinical supervision session with a brilliant psychologist. We were looking at how to talk to families about the role that food plays in their lives and how to help them to address this.   

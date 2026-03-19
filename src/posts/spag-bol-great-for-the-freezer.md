@@ -8,8 +8,7 @@ excerpt: "You can’t beat a Spag Bol for a family after work tea. Especially if
 permalink: /spag-bol-great-for-the-freezer/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/10/img_0576.jpg)](/images/uploads/2016/10/img_0576.jpg)  
+  
 You can’t beat a Spag Bol for a family after work tea. Especially if you’ve made a big batch up and frozen!!
 
 I made this with lean beef mince, onions, garlic and peppers from the freezer and passatta, tomato purée, mixed herbs & kidney beans from the cupboard so this is a great one for when you’ve not been shopping in a while.

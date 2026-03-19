@@ -8,8 +8,7 @@ excerpt: "We all know that cooking from scratch gives us control over what goes 
 permalink: /quick-food-but-not-ready-meals/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/01/img_1754.jpg)](/images/uploads/2017/01/img_1754.jpg)  
+  
 We all know that cooking from scratch gives us control over what goes in, especially salt, sugar and fat, but sometimes time is lacking. I ‘fall back’ on a stir fry roughly weekly. They’re so tasty and a great way of getting loads of veggies in and either using up leftovers or frozen veggies. 
 
 Today’s was particularly easy as I used a bag of frozen oriental stir fry veg and added some left over cabbage, prawns & some extra frozen veggies including green beans, chopped garlic and chopped ginger. 

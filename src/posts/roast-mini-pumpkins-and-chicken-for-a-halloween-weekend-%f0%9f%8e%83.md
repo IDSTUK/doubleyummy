@@ -9,8 +9,6 @@ permalink: /roast-mini-pumpkins-and-chicken-for-a-halloween-weekend-%f0%9f%8e%83
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/10/img_0647.jpg)](/images/uploads/2016/10/img_0647.jpg)
-
 These little pumpkins and squash were so tasty. Much more flavoursome than some of the larger ones grown for colour and size to be made into lanterns. Of course roasting the flesh makes it a sweeter and more intense flavour which will improve any pumpkin and so that will probably be what I do with our bigger one later in the week. Roasted here with whole garlic cloves, shallots and chunks of sweet potato, carrot and parsnip. 
 
 These roasted veggies make great first foods as well as being great for all other ages! 

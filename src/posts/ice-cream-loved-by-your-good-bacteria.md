@@ -15,8 +15,6 @@ permalink: /ice-cream-loved-by-your-good-bacteria/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2019/06/img_3226.jpg)
-
 Food for the good bacteria… Strawberry & mango nice-cream with a hint of mint. What a delicious flavour combo!
 
 Recipe: Simply whizz together two handfuls of frozen strawberries, a handful of frozen mango, 2 small bananas & a large dollop of Greek yoghurt with a few leaves of mint.

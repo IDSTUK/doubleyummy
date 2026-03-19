@@ -8,8 +8,7 @@ excerpt: "Swishy swashy, swishy swashy!  Initially both girls weren’t sure ab
 permalink: /were-going-on-a-bear-hunt/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/03/img_2347.jpg)](/images/uploads/2017/03/img_2347.jpg)  
+  
 Swishy swashy, swishy swashy! 
 
 Initially both girls weren’t sure about pushing through the grasses but after going into the spiral path behind me they happily led the way out! It’s amazing to watch as their confidence grows. 

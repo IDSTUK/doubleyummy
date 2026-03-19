@@ -14,8 +14,7 @@ excerpt: "Pizzas tonight. The girls (now 3) loved chopping their toppings. Some 
 permalink: /chefs-perks/
 layout: layouts/post.njk
 ---
-
-![](/images/uploads/2019/06/img_3213.jpg)Pizzas tonight. The girls (now 3) loved chopping their toppings. Some got eaten on the way #chefsperks which is fantastic as one them had gone off avocado until chopping it for herself.
+Pizzas tonight. The girls (now 3) loved chopping their toppings. Some got eaten on the way #chefsperks which is fantastic as one them had gone off avocado until chopping it for herself.
 
 We chopped as the pizza dough rose. They loved helping to mix the ingredients (250g string bread four 1/2 fast acting yeast sachet, pinch of sugar (to make the yeast work more quickly) & 160ml luke warm water). Once the dough has doubled in size we’ll roll it out (about 1/2 hour)
 

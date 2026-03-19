@@ -8,8 +8,7 @@ excerpt: "As it’s National Carrot Cake Day I thought I’d reshare a pic of on
 permalink: /national-carrot-cake-day/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/02/img_1898.jpg)](/images/uploads/2017/02/img_1898.jpg)  
+  
 As it’s National Carrot Cake Day I thought I’d reshare a pic of one of our favourite breakfasts. In this pic I’ve used a coarse grate for the carrot but I generally do a fine grate as the girls prefer it that way.   
 This is an overnight oats but TBH it works just as well made fresh, it’s just a bit more faff time in the morning when everyone is hungry!  Especially useful on a work morning when I haven’t got much time and because it’s so yummy it gets eaten more quickly and with less faff 😂 
 

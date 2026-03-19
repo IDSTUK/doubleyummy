@@ -8,8 +8,7 @@ excerpt: "Balancing life with a swim with my baby girls at the weekend at Trelo
 permalink: /balancing-life-with-a-swim/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/08/img_9403.jpg)](/images/uploads/2016/08/img_9403.jpg)  
+  
 Balancing life with a swim with my baby girls at the weekend at Trelowarren. 
 
 They (& I) love being in the water so much and get so excited kicking and smiling. 

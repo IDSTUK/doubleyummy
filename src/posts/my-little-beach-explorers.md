@@ -9,8 +9,6 @@ permalink: /my-little-beach-explorers/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/04/img_2802.jpg)](/images/uploads/2017/04/img_2802.jpg)
-
 Waterproofs on and we’re off. What a great place the beach is for little ones to explore.   
 Full of sensory experiences from the sand and water to so many different textured seaweeds and shells to find.   
 It’s also such a great place to get active without realising you’re even doing it!   

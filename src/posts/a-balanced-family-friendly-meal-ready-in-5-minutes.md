@@ -9,8 +9,6 @@ permalink: /a-balanced-family-friendly-meal-ready-in-5-minutes/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/03/img_2450.jpg)](/images/uploads/2017/03/img_2450.jpg)
-
 When you’re on a night away but realise at 4.45pm that none of the local restaurants start serving food until at least 6pm and your little ones need to eat around 5pm… 😬
 
 Quick dash into the local shop to see what we can throw together.   

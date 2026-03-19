@@ -8,8 +8,7 @@ excerpt: "Keeping those sour tastes going in.  We started on sour and bitter ta
 permalink: /pink-grapefruit-and-greek-yoghurt/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/01/img_1752.jpg)](/images/uploads/2017/01/img_1752.jpg)  
+  
 Keeping those sour tastes going in. 
 
 We started on sour and bitter tastes at the start of the ‘introducing solids’ journey and now try to keep them going in regularly. 

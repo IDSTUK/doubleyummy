@@ -11,8 +11,6 @@ permalink: /snow-day-bird-food/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/02/img_0944.jpg)
-
 I hope you’re all enjoying the snow.
 
 Our seeds and nuts in dripping (I save all of the fat from our roast) priced popular with this little guy in today’s snow ❄️

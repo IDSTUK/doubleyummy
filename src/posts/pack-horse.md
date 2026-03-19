@@ -15,6 +15,4 @@ permalink: /pack-horse/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/06/img_1983.jpg)
-
 When you look down to find you’re carrying quite a collection! Two scooters and helmets in the other hand 😂 This is a light day as no toddler carrying (sometimes both of them) or mass of bags 😜 #enjoyinglife #familytime #getactive #mumlife

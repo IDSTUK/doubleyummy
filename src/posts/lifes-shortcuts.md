@@ -11,8 +11,6 @@ layout: layouts/post.njk
 
 My tangle teaser…
 
-[![](/images/uploads/2016/08/img_9340.jpg)](/images/uploads/2016/08/img_9340.jpg)
-
 Thanks to @babytoddlerfoods inspiring me to share my #lifeshortcuts. It’s always good to remember that social media can be inspiring but should not be thought of as a representation of someone’s life! 
 
 I was talking to a friend at the weekend and she commented on how she was amazed that I managed to keep my blog going with my baby twins to look after. I told her what I’m going to tell you (please don’t judge me!)… 

@@ -8,8 +8,7 @@ excerpt: "My tomatoes are growing away. I love the hope that the bright yellow f
 permalink: /simple-pleasures-tomato-flowers/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/06/img_7901.jpg)](/images/uploads/2016/06/img_7901.jpg)  
+  
 My tomatoes are growing away. I love the hope that the bright yellow flowers give 🌼🍅 there’s nothing like the taste of homegrown tomatoes 💖
 
 #homegrown #tomatoes #healthyliving #healthyeating #dietitian #simplepleasures

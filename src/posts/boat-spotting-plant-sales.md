@@ -14,8 +14,6 @@ permalink: /boat-spotting-plant-sales/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/07/img_2376.jpg)
-
 After school stroll to the beach with our friends yesterday. Loved the idea of a plant sale at the school gate. We now have two sunflower plants that I’m hoping will stabd more chance against our mega slugs 😆
 
 #lovecornwall #cornishlife #lizard #beachlife #cliffwalk #hopeful #doubleyummy #loveactivity

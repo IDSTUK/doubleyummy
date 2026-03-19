@@ -9,8 +9,6 @@ permalink: /roasted-squash-falafel-meze/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/04/img_1509.jpg)
-
 Roasted squash falafels in the making. So simple and really tasty.
 
 Ingredients:

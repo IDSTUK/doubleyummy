@@ -9,8 +9,6 @@ permalink: /incorporating-activity-into-your-day/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/11/img_0796.jpg)](/images/uploads/2016/11/img_0796.jpg)
-
 Can you spy my wheelbarrow? I may have gotten carried away with my garden clearance… 
 
 You don’t need to go to a structured exercise class or for a run to be active! 

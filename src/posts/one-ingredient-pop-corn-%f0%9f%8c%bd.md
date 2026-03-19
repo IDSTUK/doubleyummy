@@ -15,8 +15,6 @@ permalink: /one-ingredient-pop-corn-%f0%9f%8c%bd/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2019/06/img_3223.jpg)
-
 Simply pop the fried cob into a microwaveable container (with a lid to contain the kernels!) & microwave. Watch the corn expand and pop off the cob! Loved by all 😍🌽
 
 #popcorn #healthysnacks #healthysnacksforkids #familyfood #kidsfood #funwithfood #dietitianeats #dietitiansofinstagram

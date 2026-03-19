@@ -8,8 +8,7 @@ excerpt: "Not cakes but fish, sweet potatoes, carrots, squash, turnip (swede) an
 permalink: /baking-time/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/01/img_1735.jpg)](/images/uploads/2017/01/img_1735.jpg)  
+  
 Not cakes but fish, sweet potatoes, carrots, squash, turnip (swede) and potatoes served with kale. 
 
 This is a pic of the girls’ meal, we the same but a lot more kale and some curry paste in the fish. No need to add any fat when cooking. Baking really brings out the sweetness of the root veggies. 

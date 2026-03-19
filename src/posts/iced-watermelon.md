@@ -14,8 +14,7 @@ excerpt: "The easiest ice lollies you’ll ever make: simply chop up watermelon 
 permalink: /iced-watermelon/
 layout: layouts/post.njk
 ---
-
-![](/images/uploads/2019/06/img_3222.jpg)The easiest ice lollies you’ll ever make: simply chop up watermelon & freeze. Yes that’s all you have to do. Only one ingredient so free from everything other than watermelon! 🍉 enjoyed by all from my 9 month old niece to me 😉
+The easiest ice lollies you’ll ever make: simply chop up watermelon & freeze. Yes that’s all you have to do. Only one ingredient so free from everything other than watermelon! 🍉 enjoyed by all from my 9 month old niece to me 😉
 
 I made these a while back as had a giant watermelon. Making these is also a great way to use up a giant watermelon too.
 

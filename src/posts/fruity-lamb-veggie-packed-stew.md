@@ -9,8 +9,6 @@ permalink: /fruity-lamb-veggie-packed-stew/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/11/img_1004.jpg)](/images/uploads/2016/11/img_1004.jpg)
-
 When I set out I was going to make a lamb tagine but then as I looked at the ingredients I had it’s a little removed from the original recipe so I thought I should call it something else! 
 
 Bulking up with pulses and veggies  makes this a great balanced throw it in the pot meal. It makes the precious lamb go much further and ups the fibre and micronutrient content of the dish. 

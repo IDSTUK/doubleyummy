@@ -14,8 +14,7 @@ excerpt: "This spiced pear porridge is made with store cupboard Ingredients: por
 permalink: /fruit-and-veg-dont-have-to-be-fresh-to-count-towards-your-5-a-day/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/09/img_4810.jpg)](/images/uploads/2017/09/img_4810.jpg)  
+  
 This spiced pear porridge is made with store cupboard Ingredients: porridge oats, long life milk, tinned pears and mixed spice.
 
  I have added a dollop of fresh yoghurt (not from the store cupboard) to give a protein and calcium boost. But most of all to help it cool down for hungry tummies. 

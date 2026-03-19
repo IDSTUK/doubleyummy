@@ -8,8 +8,7 @@ excerpt: "Trying out a new recipe this afternoon. I’ve swapped most of the but
 permalink: /christmas-reduced-fat-savoury-biscuits/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/12/img_1261.jpg)](/images/uploads/2016/12/img_1261.jpg)  
+  
 Trying out a new recipe this afternoon. I’ve swapped most of the butter for yoghurt. Not tasted them yet but they’re looking ok…   
 Ingredients:
 

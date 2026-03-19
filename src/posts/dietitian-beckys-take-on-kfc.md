@@ -8,8 +8,7 @@ excerpt: "Chicken fillet oven cooked in fresh breadcrumbs with a little oil eg r
 permalink: /dietitian-beckys-take-on-kfc/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/07/img_8281.jpg)](/images/uploads/2016/07/img_8281.jpg)Chicken fillet oven cooked in fresh breadcrumbs with a little oil eg rapeseed (in the UK most of the vegetable oil is rapeseed) or olive oil and new potato wedges, with broccoli and carrots. 
+Chicken fillet oven cooked in fresh breadcrumbs with a little oil eg rapeseed (in the UK most of the vegetable oil is rapeseed) or olive oil and new potato wedges, with broccoli and carrots. 
 
 Portion pictured is for a 2 year old.
 

@@ -15,8 +15,6 @@ permalink: /snow-day-snack/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/03/img_1072.jpg)
-
 The snow has returned and were now warming up with peanut butter banana snowmen and a a baby chino (frothy milk) after a morning of snow play and sledging.
 
 The girls love a baby chino but I always ask for frothy milk as a baby chino in a cafe can be full of sugar as syrups are often used.

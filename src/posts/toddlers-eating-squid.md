@@ -8,8 +8,7 @@ excerpt: "Squid is a great low fat source of protein. But best of all cooked rig
 permalink: /toddlers-eating-squid/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/03/img_2569.jpg)](/images/uploads/2017/03/img_2569.jpg) 
+ 
 
 Squid is a great low fat source of protein. But best of all cooked right it’s absolutely delicious!
 

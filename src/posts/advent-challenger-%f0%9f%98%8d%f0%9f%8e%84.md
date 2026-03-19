@@ -14,8 +14,7 @@ excerpt: "My advent challenger for my girls pre-school class. 🎄A different Ch
 permalink: /advent-challenger-%f0%9f%98%8d%f0%9f%8e%84/
 layout: layouts/post.njk
 ---
-
-![](/images/uploads/2018/12/img_3587.jpg)![](/images/uploads/2018/12/img_3583.jpg)
+![](/images/uploads/2018/12/img_3583.jpg)
 
 My advent challenger for my girls pre-school class. 🎄A different Christmassy themed mini challenge for each school day in advent.
 

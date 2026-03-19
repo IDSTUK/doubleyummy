@@ -8,8 +8,7 @@ excerpt: "Honey, fruit juice, date syrup, maple syrup and other syrups (there ar
 permalink: /the-truth-about-no-added-sugar-my-baby-banana-bread-recipe/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/08/img_9448.jpg)](/images/uploads/2016/08/img_9448.jpg)  
+  
 Honey, fruit juice, date syrup, maple syrup and other syrups (there are so many!) are all sugar and have very similar effects on blood glucose levels and the body as ‘refined sugar’. Some add a great flavour and so use them if you want it for that but don’t be fooled into thinking of it as ‘no added sugar’ as some trendy chefs would make you believe. I’m not saying never add sugar – that’s personal choice. I try not to because We don’t need it, but that’s a choice I make.  
 
 You may say but the glycemic index is lower for honey or another ‘natural sugar’ but the reality is that it’s barely different from refined sugar, they usually have the same calories as sugar and the same effects on dental health. It’s also worth noting that the current advice is to avoid honey for babies under 1 due to the risk of botulism. 

@@ -9,8 +9,6 @@ permalink: /courgette-carbonara/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/11/img_0982.jpg)](/images/uploads/2016/11/img_0982.jpg)
-
 I was thinking to maybe do my first squid ink risotto for Black Friday but I didn’t have the energy to get it together! So instead we had courgette penne carbonara with a little ham and a good helping of watermelon 🍉 
 
 This is a simple yet balanced family friendly dish. 

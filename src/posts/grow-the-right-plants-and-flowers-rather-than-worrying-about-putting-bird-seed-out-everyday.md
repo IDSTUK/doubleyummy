@@ -8,8 +8,7 @@ excerpt: "This is my thought for the day as I’m pondering leadership styles an
 permalink: /grow-the-right-plants-and-flowers-rather-than-worrying-about-putting-bird-seed-out-everyday/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/05/img_3492.jpg)](/images/uploads/2017/05/img_3492.jpg)  
+  
 This is my thought for the day as I’m pondering leadership styles and studying. I expect there’s a similar quote out there by a great thinker but this is my version as I look at the garden 😀🌸🌺🌻🌼🍀🌾🌳🌱 
 
 #motivator #developer #inspire #goodfoundations #leadership #getthebest #keepthemagicalive #thoughtoftheday #sunday #balancedlife #study #workingmum #mumoftwins #dietitian #healthymind   

@@ -9,8 +9,6 @@ permalink: /food-refusal/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/12/img_1245.jpg)](/images/uploads/2016/12/img_1245.jpg)
-
 Colourful roast pork with roasted carrots, squash and parsnips (all roasted whole), turnip (swede), sprouts & mashed potato. It’s the season for big family meals and a roast is a great opportunity to get in lots of yummy veggies. This is one from the weekend.
 
 If you’re watching your weight avoid adding fats & sauces to your veggies and then a roast can be a really healthy meal.

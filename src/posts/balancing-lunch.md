@@ -9,8 +9,6 @@ permalink: /balancing-lunch/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/05/img_3120.jpg)](/images/uploads/2017/05/img_3120.jpg)
-
 Lunch 😀 
 
 Three cornered leek humous on bread chunks, Gouda cheese, 1/2 boiled egg, cherry tomatoes and cucumber. 

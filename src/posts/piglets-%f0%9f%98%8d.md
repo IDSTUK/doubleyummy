@@ -9,8 +9,6 @@ permalink: /piglets-%f0%9f%98%8d/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/10/img_0346.jpg)](/images/uploads/2016/10/img_0346.jpg)
-
 💖🐖🐓🐐🐂 😊 Checking out where our food comes from @trevaskisfarm 😍🍅🍎🍏🍐🍓🍆🌽 and singing a couple if obligatory verses of Old MacDonald’s Farm!
 
 Supporting our local businesses and farmers is important to us. I’m not saying we never use supermarkets as that’s not true, but we do love getting local food from the farmers markets, farm shops and the stall at people’s gates.

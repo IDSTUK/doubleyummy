@@ -8,8 +8,7 @@ excerpt: "Yesterday at the Porthleven Food Festival. So many passionate food ent
 permalink: /food-heaven/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/04/img_3074.jpg)](/images/uploads/2017/04/img_3074.jpg)  
+  
 Yesterday at the Porthleven Food Festival. So many passionate food entrepreneurs selling delicious food, talented chefs doing demos (& tasters!) and great live music.   
 Apparently we were part of 25,000 people that went yesterday!  
 The girls (&I) enjoyed the #idlerocks chef’s watercress and oyster veloute and salmon, as well as the crab mousse tortellini!  

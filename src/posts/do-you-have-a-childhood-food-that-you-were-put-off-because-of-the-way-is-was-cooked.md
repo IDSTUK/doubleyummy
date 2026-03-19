@@ -8,8 +8,7 @@ excerpt: "For me this was cockles.  Now I’m not sure if this is just a local 
 permalink: /do-you-have-a-childhood-food-that-you-were-put-off-because-of-the-way-is-was-cooked/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/04/img_2964.jpg)](/images/uploads/2017/04/img_2964.jpg)  
+  
 For me this was cockles.   
 Now I’m not sure if this is just a local thing but on Good Friday we have a bylaw that means that you can go and collect cockles from the foreshore. This is our bounty.   
 The hubby and I got a good workout taking for them and the girls loved being helpful and putting our findings into the bucket for us. They loved looking sat the shapes and colours as well as being involved!

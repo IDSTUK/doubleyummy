@@ -9,8 +9,6 @@ permalink: /happy-decorating-%f0%9f%8e%84/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/12/img_1091.jpg)](/images/uploads/2016/12/img_1091.jpg)
-
 First weekend in December has started and this is the first decoration going up 😍⛄️🎄
 
 This is a really easy to make decoration.

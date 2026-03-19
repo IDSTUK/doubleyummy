@@ -9,8 +9,6 @@ permalink: /ham-and-potato-balls-with-peas-and-parsley-sauce/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/09/img_0092.jpg)](/images/uploads/2016/09/img_0092.jpg)
-
 Ingredients to serve two adults and two 11 month olds:
 
 Ham joint or chunky cut cooked ham

@@ -15,8 +15,6 @@ permalink: /veggie-packed-cheats-mousakka/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/02/img_0796.jpg)
-
 Tonight’s veggie packed cheats mousakka.
 
 Lamb can be expensive but it’s delicious so my advice is to bulk it out with veggies so that it’s cheaper per serving yet retains all of that yummy flavour. Here lentils boost the protein and fibre content at the same time. You’ve got to love pulses!

@@ -9,8 +9,6 @@ permalink: /lasagne-doesnt-need-to-be-a-carb-fest/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/03/img_2373.jpg)](/images/uploads/2017/03/img_2373.jpg)
-
 I love food (in case you hadn’t guessed!) but this remains one of my all time favourite meals. Lasagne and peas – ummm.   
 Recipe: this is enough for spaghetti and lasagne for a family of 4. As our littleies are only 17 months there was a portion of lasagne left for me to take to work for lunch too.   
 Bolognaise Ingredients:

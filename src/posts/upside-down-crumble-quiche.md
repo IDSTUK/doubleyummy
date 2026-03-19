@@ -14,8 +14,6 @@ permalink: /upside-down-crumble-quiche/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/07/img_3992.jpg)](/images/uploads/2017/07/img_3992.jpg)
-
 Not really sure what to call it, but this epic fail at defrosting some leftover pastry that is frozen turned into something so yummy I thought I’d share! 
 
 At one of my children’s weight management groups this week we were discussing (with the parents and extended family whilst the children played) ‘damage limitation’.

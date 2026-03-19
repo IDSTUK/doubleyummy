@@ -9,8 +9,6 @@ permalink: /treasures/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/06/img_3665.jpg)](/images/uploads/2017/06/img_3665.jpg)
-
 When you’re a toddler there are treasures everywhere, every shell fragment or pebble, every piece of seaweed or driftwood.   
 These are my little treasures finding their treasure 😍😂   
 Treasure every moment x  

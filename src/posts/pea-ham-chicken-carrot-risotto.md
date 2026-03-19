@@ -11,8 +11,7 @@ excerpt: "This was made extra yummy by using stock made from yesterday’s roast
 permalink: /pea-ham-chicken-carrot-risotto/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/07/img_9113-3.jpg)](/images/uploads/2016/07/img_9113-3.jpg)  
+  
 This was made extra yummy by using stock made from yesterday’s roast chicken (thank you hubby!) & it meant that it was so low in salt, but you could use a low salt stock cube instead. We grated in the carrot which worked really well.   
 The girls enjoyed this both with their fingers and from the spoon. I love watching the way that they use their pincer grip with little bits like peas and then how they manipulate it into their mouths 😍 
 

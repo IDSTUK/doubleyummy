@@ -15,8 +15,6 @@ permalink: /health-benefits-of-cinnamon/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/02/img_0645.jpg)
-
 We love cinnamon and mixed spice! Here is paired with some oats, milk, finely grated carrot and sultanas to make our ‘carrot cake porridge’ and topped with deliciously creamy Greek yoghurt.
 
 There’s a growing body of evidence in support of cinnamon in health. It’s important to remember with any of these studies though that their scientific power is often limited. It’s also important to realise that studies usually use much higher quantities than we’d use in our normal diets to get ‘therapeutic doses’.

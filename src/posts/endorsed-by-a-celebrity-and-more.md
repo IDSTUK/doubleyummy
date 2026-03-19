@@ -16,8 +16,6 @@ permalink: /endorsed-by-a-celebrity-and-more/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/01/img_0432.jpg)
-
 Happy New Year everyone. I hope you’ve had a great day with family and friends.
 
 It’s the time of year when everyone feels they must make a change. If you don’t mind I’ve a few suggestions:

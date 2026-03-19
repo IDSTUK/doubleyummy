@@ -8,8 +8,7 @@ excerpt: "It’s National Nutrition and Hydration Week. Did you know that a lead
 permalink: /tired-dont-let-it-be-due-to-dehydration/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/03/img_2434.jpg)](/images/uploads/2017/03/img_2434.jpg)  
+  
 It’s National Nutrition and Hydration Week. Did you know that a leading cause of tiredness is dehydration? A recent study by the National Hydration Council reveals that dehydration is actually the cause of 1 in 10 visits to the GP for tiredness and fatigue! 
 
 Dehydration can be a trigger to eat and therefore a cause of an excess calorie intake and therefore weight gain too. This is because our brains often get the sensation of thirst mixed up with hunger. So try to ‘think drink’ before you grab an extra snack!

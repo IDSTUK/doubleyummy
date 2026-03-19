@@ -15,8 +15,6 @@ permalink: /looking-for-a-half-term-activity-to-get-everyone-active-and-interest
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/05/003.jpg)
-
 How about a walk to collect flowers to press?
 
 Our girls loved finding the different the leaves and flowers which encouraged them to walk without asking to be carried 😀, they enjoyed arranging them on the page and then standing on the large books to start the pressing process.

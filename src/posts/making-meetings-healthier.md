@@ -9,8 +9,6 @@ permalink: /making-meetings-healthier/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/05/img_3434.jpg)](/images/uploads/2017/05/img_3434.jpg)
-
 Great news as I’ve been accepted into the AHPs4PH scheme and hope to look at trialling some of my ideas around healthy meetings. 
 
 Don’t get me wrong I’m always grateful for a free lunch, but sometimes they can be a bit beige!   

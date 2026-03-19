@@ -9,8 +9,6 @@ permalink: /bringing-a-bit-of-the-fresh-summer-feeling-to-lunch-on-this-cold-but
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/01/img_1791.jpg)](/images/uploads/2017/01/img_1791.jpg)
-
 Adding grated carrot, sundried tomatoes and blackberry vinegar to this ham salad really gave it a taste boost. The base salad is mixed leaves, rocket, chopped cucumber and cherry tomatoes. Served with some toasted wholemeal Hope’s bread. 
 
 Does anyone have a ‘I’ll use them for something nice’ stash of blackberries? If so let me know and I’ll share my pickled blackberry recipe. I bottled the extra vinegar which has made a delicious dressing. 

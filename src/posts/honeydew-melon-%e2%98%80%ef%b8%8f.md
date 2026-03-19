@@ -20,8 +20,6 @@ permalink: /honeydew-melon-%e2%98%80%ef%b8%8f/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/07/img_8364.jpg)](/images/uploads/2016/07/img_8364.jpg)
-
 One of the tastiest melons I’ve ever eaten. The girls absolutely LOVED it too. Just look at the golden colour ☀️ 
 
 Rich in Vitamin C, B vitamins, potassium and fibre melons are a really healthy food, with diets rich in these nutrients being linked to health including lower blood pressure. 

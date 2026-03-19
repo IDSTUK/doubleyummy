@@ -9,8 +9,6 @@ permalink: /marias-spanakorizo/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/09/img_0053.jpg)](/images/uploads/2016/09/img_0053.jpg)
-
 A few days away have meant having some lovely food cooked for us this week. More importantly though it’s been a chance to catch up with friends and explore new ideas. More on this at some point. 
 
 Spanakorizo (Greek ‘Spinach rice’)

@@ -14,8 +14,6 @@ permalink: /pre-an-gof-celebrations-dinner/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/06/img_3910-1.jpg)](/images/uploads/2017/06/img_3910-1.jpg)
-
 Mediterranean tagliatelle.    
 A really yummy dish cooked up by my hubby on his day with the girls this week. I whipped in quickly and then headed out to the An Gof celebrations in St Keverne. I can’t believe it was 20 years ago that we walked to Bkackheath in London! Seems crazy when you look back in it. 
 

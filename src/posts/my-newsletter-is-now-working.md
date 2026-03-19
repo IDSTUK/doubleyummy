@@ -9,8 +9,6 @@ permalink: /my-newsletter-is-now-working/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/07/img_8674.jpg)](/images/uploads/2016/07/img_8674.jpg)
-
 Thanks for all of the love and support for DoubleYummy people. I’ve started a newsletter that will be delivered to your mailbox on a Friday afternoon. It will contain articles published in the last week, but there’s loads more info and ideas on my blog page too. Please tell your friends 😘  
 Sorry if you’ve previously signed up as we’ve had a technical glitch and so have had to start afresh..! Please can you sign up again. Thank you for being so patient!  
 To sign up click here [http://eepurl.com/b9eUdz](http://eepurl.com/b9eUdz)  

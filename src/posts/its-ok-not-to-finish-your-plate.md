@@ -9,8 +9,6 @@ permalink: /its-ok-not-to-finish-your-plate/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/02/img_2141.jpg)](/images/uploads/2017/02/img_2141.jpg)
-
 This can be hard to remember as a parent. Sometimes we are hungrier than other and this is the same for our children. Allowing, in fact encouraging them to stop eating when they are full is so important. 
 
 Gone are the days of parents telling their children that they must clean their plate as there are children starving in Africa as we now know that it’s all too easy to conform to social convention and to learn to eat with your eyes until the plate is clear. 

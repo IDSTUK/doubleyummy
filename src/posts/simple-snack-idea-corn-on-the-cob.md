@@ -11,8 +11,7 @@ excerpt: "Sweet corn or corn on the cob counts as one if your 5-a-day for your f
 permalink: /simple-snack-idea-corn-on-the-cob/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/06/img_3861.jpg)](/images/uploads/2017/06/img_3861.jpg)  
+  
 Sweet corn or corn on the cob counts as one if your 5-a-day for your fruits & veggies and it is a great source of fibre. Fibre is important for your health for lots of reasons including feeding the good gut bacteria which helps to keep a healthy digestive system. 
 
 I’d actually cooked them for lunch but they were too hot so we had them for snack time. 

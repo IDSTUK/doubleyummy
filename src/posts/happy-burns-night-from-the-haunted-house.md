@@ -9,7 +9,7 @@ permalink: /happy-burns-night-from-the-haunted-house/
 layout: layouts/post.njk
 ---
 
-﻿​​[![](/images/uploads/2017/01/img_1860.jpg)](/images/uploads/2017/01/img_1860.jpg)
+﻿​​
 
 (This post is a little late as I’ve been struggling to upload it so apologies.)
 

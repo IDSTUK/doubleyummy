@@ -11,8 +11,7 @@ excerpt: "11% of 11-16 year olds think that fruit pastilles count as part of the
 permalink: /do-fruit-pastilles-count-as-a-portion-of-fruit/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/06/img_3680.jpg)](/images/uploads/2017/06/img_3680.jpg)  
+  
 11% of 11-16 year olds think that fruit pastilles count as part of their 5-a-day for fruit and veg..!   
 Eat fact not fiction is the theme for this weeks Dietitians Week. It’s also the British Nutrition Foundation’s (BNF) Healthy Eating Week and they’ve just released the details of a recent survey asking school children about where food comes for. It’s an interesting’ (or more accurately worrying) read.   
 More like ham a quarter also thought that strawberry jam counted as a portion of fruit and veg 😬  

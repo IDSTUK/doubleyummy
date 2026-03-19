@@ -8,8 +8,7 @@ excerpt: "Here we are all set up for play group to visit today. The summer holid
 permalink: /sensory-play-for-playgroup/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/07/img_9175-1.jpg)](/images/uploads/2016/07/img_9175-1.jpg)  
+  
 Here we are all set up for play group to visit today. The summer holidays have put a spanner in the works for our weekly plans so we decided to host playgroup at Cornish Camels today!
 
 Lots of sensory and developmental play opportunities which include:

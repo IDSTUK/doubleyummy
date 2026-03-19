@@ -11,7 +11,7 @@ layout: layouts/post.njk
 
 Thanks to Rebecca for asking about when shellfish can be introduced. See below for more info 😀
 
-[![](/images/uploads/2016/07/img_8721.jpg)](/images/uploads/2016/07/img_8721.jpg)  
+  
 To celebrate Pop’s birthday we made this special dish on Saturday. It made a small lobster go a long way and it was a big hit with all ages! We got our lobster from the lovely fishermen at Cadgwith Cove.   
 This recipe is adapted from Jamie Oliver’s comfort food to make it baby friendly (& cheaper). If you’re not feeling like splurging on lobster you can substitute in crab. Special occasion food can still be for everyone 😍  
 **Portions:** this served 4 adults & 6 baby portions (I’ve frozen 4!). If you’re hungry you’ll just have none to freeze. 

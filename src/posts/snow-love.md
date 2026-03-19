@@ -14,8 +14,6 @@ permalink: /snow-love/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/02/img_0701.jpg)
-
 Best friends forever. It may have been a thin layer but last week’s snow was enough for the girls to have fallen in love with the white stuff 😍
 
 The neighbours randomly had two sledges in their garage which got some good use, but now they keep asking when they can use them again… probably not until next year or maybe he following year!

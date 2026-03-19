@@ -15,8 +15,6 @@ permalink: /if-youre-having-a-difficult-day-for-whatever-reason-be-kind-to-yours
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/01/img_0510.jpg)
-
 Social media can be a difficult place. Nobody wants to see all of your dirty laundry but it’s important to remember that the life of others is not just what is shared.
 
 Have a nice holiday they said as I left work yesterday. I prefer to call it leave these days as when your day starts with cornflour in the bedroom it doesn’t really feel like a holiday.

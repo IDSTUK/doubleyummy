@@ -11,8 +11,6 @@ layout: layouts/post.njk
 
 Balanced doesn’t need to be fancy!
 
-![](/images/uploads/2018/04/img_1619.jpg)
-
 1/2 a ‘Lightly dusted’ (no recipe as I bought it like this though I’m sure it’d be pretty easy to do!) fish, oven baked potato and sweet potato wedges (chopped potatoes with a spray of oil) and steamed veg (peas from the freezer, sweet corn from a tin and a couple of sliced carrots).
 
 Only the sweet potato wedges & carrots left by one and a couple of wedges by the other. As the girls are now two and a half we have lots of comments about what I’d liked or not on a particular day, it fluxes loads and tends to be for the bits I’m not too worried about them leaving like the sweet potato (never imagined they’d jut want that!).

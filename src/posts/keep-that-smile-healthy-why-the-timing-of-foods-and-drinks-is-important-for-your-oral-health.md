@@ -8,8 +8,7 @@ excerpt: "It’s World Oral Health Day and so it seems a good day to think about
 permalink: /keep-that-smile-healthy-why-the-timing-of-foods-and-drinks-is-important-for-your-oral-health/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2017/03/img_2496.jpg)](/images/uploads/2017/03/img_2496.jpg)  
+  
  It’s World Oral Health Day and so it seems a good day to think about the impact of food on oral health.   
 Most people are very aware that high sugar foods and drinks are detrimental to good oral health, particularly tooth health. However there are lots of food and drinks that people swap to that can be just as bad. 
 

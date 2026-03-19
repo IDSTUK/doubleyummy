@@ -15,8 +15,6 @@ permalink: /beta-glucans-benefit-heart-health/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2019/06/c8259de2-79b6-4024-adef-d1d505812911.jpg)
-
 Carrot & pineapple porridge to kick a wet summers morning into action. Recipe devised, prepped, cooked (can be done the evening before) & photographed in collaboration 🤣
 
 In my ‘day job’ I’m privileged enough to work with families who have a genetic predisposition to raised levels of fat in the blood including high cholesterol.

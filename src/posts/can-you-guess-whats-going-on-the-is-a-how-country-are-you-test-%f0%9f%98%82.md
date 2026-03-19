@@ -9,8 +9,6 @@ permalink: /can-you-guess-whats-going-on-the-is-a-how-country-are-you-test-%f0%9
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/05/img_3384.jpg)](/images/uploads/2017/05/img_3384.jpg)
-
 Good morning little miss bo peep they bleeted through the window! This isn’t a breakfast idea or really a play one though I think I’ll make it into one…  
 Sheep are awake and off for an explore around the village.  
 There’s something about growing up on a farm that makes me feel like I must sure these types of things out so off I trotted following the fastest sheep I’ve come across up the road. So that’s a good start to my steps for the day and some sheep safely in a field until we work out who the owner is.  

@@ -9,8 +9,6 @@ permalink: /beef-peppers-and-peas-with-wholemeal-fusilli-pasta/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/09/img_0176-1.jpg)](/images/uploads/2016/09/img_0176-1.jpg)
-
 The girls enjoy the spirally pastas like fusilli. They can hold it well and it’s easy to bite into chunks. This dish is a great source of iron.
 
 This recipe is enough for 4x adults and 4x 12 month olds – we saved half as the base of my lasagne, recipe later in the week 😋
