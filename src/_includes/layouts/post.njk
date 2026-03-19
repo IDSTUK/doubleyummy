@@ -1,0 +1,54 @@
+---
+layout: layouts/base.njk
+---
+<article class="post" data-pagefind-body>
+  <header class="post-header">
+    <h1 class="post-title">{{ title }}</h1>
+    <div class="post-meta">
+      <time datetime="{{ date | isoDate }}">{{ date | readableDate }}</time>
+      <span class="post-author">by {{ author or site.author }}</span>
+    </div>
+    {% if tags %}
+    <div class="post-tags">
+      {% for tag in tags %}
+      <a href="/tag/{{ tag | slugify }}/" class="tag-badge">{{ tag }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </header>
+
+  {% if featuredImage %}
+  <div class="post-featured-image">
+    <img src="{{ featuredImage }}" alt="{{ title }}" loading="lazy" decoding="async">
+  </div>
+  {% endif %}
+
+  <div class="post-content">
+    {{ content | safe }}
+  </div>
+
+  <footer class="post-footer">
+    {% set allPosts = collections.posts %}
+    {% set currentIndex = -1 %}
+    {% for p in allPosts %}
+      {% if p.url == page.url %}
+        {% set currentIndex = loop.index0 %}
+      {% endif %}
+    {% endfor %}
+
+    <nav class="post-nav" aria-label="Post navigation">
+      {% if currentIndex > 0 %}
+      <a href="{{ allPosts[currentIndex - 1].url }}" class="post-nav-link post-nav-newer">
+        <span class="post-nav-label">Newer</span>
+        <span class="post-nav-title">{{ allPosts[currentIndex - 1].data.title }}</span>
+      </a>
+      {% endif %}
+      {% if currentIndex >= 0 and currentIndex < allPosts.length - 1 %}
+      <a href="{{ allPosts[currentIndex + 1].url }}" class="post-nav-link post-nav-older">
+        <span class="post-nav-label">Older</span>
+        <span class="post-nav-title">{{ allPosts[currentIndex + 1].data.title }}</span>
+      </a>
+      {% endif %}
+    </nav>
+  </footer>
+</article>

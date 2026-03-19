@@ -1,0 +1,34 @@
+---
+pagination:
+  data: collections.tagList
+  size: 1
+  alias: tagItem
+permalink: /tag/{{ tagItem.name | slugify }}/
+layout: layouts/base.njk
+eleventyComputed:
+  title: "Tagged: {{ tagItem.name }}"
+---
+<div class="tag-archive">
+  <h1 class="tag-archive-title">Tagged: {{ tagItem.name }}</h1>
+  <p class="tag-archive-count">{{ tagItem.count }} recipe{{ 's' if tagItem.count != 1 }}</p>
+
+  <div class="post-list">
+    {% for post in collections.posts %}
+      {% if tagItem.name in post.data.tags %}
+      <article class="post-card">
+        {% if post.data.featuredImage %}
+        <a href="{{ post.url }}" class="post-card-image">
+          <img src="{{ post.data.featuredImage }}" alt="{{ post.data.title }}" loading="lazy" decoding="async">
+        </a>
+        {% endif %}
+        <div class="post-card-content">
+          <h2 class="post-card-title">
+            <a href="{{ post.url }}">{{ post.data.title }}</a>
+          </h2>
+          <time class="post-card-date" datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time>
+        </div>
+      </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

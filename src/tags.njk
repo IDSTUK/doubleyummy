@@ -1,0 +1,15 @@
+---
+title: Tags
+layout: layouts/base.njk
+permalink: /tags/
+---
+<div class="tags-page">
+  <h1>All Tags</h1>
+  <div class="tag-cloud">
+    {% for item in collections.tagList %}
+    <a href="/tag/{{ item.name | slugify }}/" class="tag-cloud-item">
+      {{ item.name }} <span class="tag-count">({{ item.count }})</span>
+    </a>
+    {% endfor %}
+  </div>
+</div>

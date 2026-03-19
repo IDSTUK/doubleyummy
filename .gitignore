@@ -1,0 +1,5 @@
+node_modules/
+_site/
+scripts/scrape-report.json
+scripts/image-manifest.json
+.DS_Store

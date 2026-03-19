@@ -1,0 +1,36 @@
+---
+title: Archive
+layout: layouts/base.njk
+permalink: /archive/
+---
+<div class="archive-page">
+  <h1>Archive</h1>
+
+  {% set currentYear = '' %}
+  {% set currentMonth = '' %}
+
+  {% for post in collections.posts %}
+    {% set postYear = post.date | year %}
+    {% set postMonth = post.date | monthYear %}
+
+    {% if postYear != currentYear %}
+      {% if currentYear != '' %}</ul>{% endif %}
+      <h2 class="archive-year">{{ postYear }}</h2>
+      {% set currentYear = postYear %}
+      {% set currentMonth = '' %}
+    {% endif %}
+
+    {% if postMonth != currentMonth %}
+      {% if currentMonth != '' %}</ul>{% endif %}
+      <h3 class="archive-month">{{ postMonth }}</h3>
+      <ul class="archive-list">
+      {% set currentMonth = postMonth %}
+    {% endif %}
+
+    <li class="archive-item">
+      <time datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time>
+      <a href="{{ post.url }}">{{ post.data.title }}</a>
+    </li>
+  {% endfor %}
+  {% if collections.posts.length > 0 %}</ul>{% endif %}
+</div>

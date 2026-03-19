@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ description or excerpt or site.description }}">
+  <meta name="author" content="{{ site.author }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ title or site.title }}">
+  <meta property="og:description" content="{{ description or excerpt or site.description }}">
+  <meta property="og:type" content="{% if layout == 'layouts/post.njk' %}article{% else %}website{% endif %}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  {% if featuredImage %}
+  <meta property="og:image" content="{{ site.url }}{{ featuredImage }}">
+  {% endif %}
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}/feed.xml">
+
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="header-inner">
+        <a href="/" class="site-title">{{ site.title }}</a>
+        <button class="menu-toggle" aria-label="Toggle navigation" aria-expanded="false">
+          <span class="menu-icon"></span>
+        </button>
+        <nav class="site-nav" role="navigation">
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/search/">Search</a></li>
+            <li><a href="/archive/">Archive</a></li>
+            <li><a href="/tags/">Tags</a></li>
+            <li><a href="/feed.xml">RSS</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main class="site-main">
+    <div class="container">
+      {{ content | safe }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>{{ site.title }} &mdash; {{ site.author }}, UK Registered Dietitian</p>
+      <p class="footer-sub">Baby weaning recipes &amp; nutrition advice</p>
+    </div>
+  </footer>
+
+  <script>
+    // Mobile menu toggle
+    const toggle = document.querySelector('.menu-toggle');
+    const nav = document.querySelector('.site-nav');
+    if (toggle) {
+      toggle.addEventListener('click', () => {
+        const expanded = toggle.getAttribute('aria-expanded') === 'true';
+        toggle.setAttribute('aria-expanded', !expanded);
+        nav.classList.toggle('is-open');
+      });
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,417 @@
+[
+  {
+    "name": "5aday",
+    "slug": "5aday",
+    "count": 3
+  },
+  {
+    "name": "@CNmagazines",
+    "slug": "cnmagazines",
+    "count": 2
+  },
+  {
+    "name": "Advent",
+    "slug": "advent",
+    "count": 2
+  },
+  {
+    "name": "AHPsActive",
+    "slug": "ahpsactive",
+    "count": 2
+  },
+  {
+    "name": "AHPsDay",
+    "slug": "ahpsday",
+    "count": 1
+  },
+  {
+    "name": "AutumnTreat",
+    "slug": "autumntreat",
+    "count": 5
+  },
+  {
+    "name": "Awards",
+    "slug": "awards",
+    "count": 2
+  },
+  {
+    "name": "BabyFood",
+    "slug": "babyfood",
+    "count": 48
+  },
+  {
+    "name": "BalancedEating",
+    "slug": "balancedeating",
+    "count": 61
+  },
+  {
+    "name": "BalancedLife",
+    "slug": "balancedlife",
+    "count": 49
+  },
+  {
+    "name": "BeachLife",
+    "slug": "beachlife",
+    "count": 2
+  },
+  {
+    "name": "Beef",
+    "slug": "beef",
+    "count": 1
+  },
+  {
+    "name": "BehaviourChange",
+    "slug": "behaviourchange",
+    "count": 3
+  },
+  {
+    "name": "BetaGlucan",
+    "slug": "betaglucan",
+    "count": 1
+  },
+  {
+    "name": "Breakfast",
+    "slug": "breakfast",
+    "count": 6
+  },
+  {
+    "name": "CAHPO18",
+    "slug": "cahpo18",
+    "count": 1
+  },
+  {
+    "name": "CelebrateTheSmallThings",
+    "slug": "celebratethesmallthings",
+    "count": 4
+  },
+  {
+    "name": "CNmagazines",
+    "slug": "cnmagazines-2",
+    "count": 2
+  },
+  {
+    "name": "Detox",
+    "slug": "detox",
+    "count": 1
+  },
+  {
+    "name": "Dietitian",
+    "slug": "dietitian",
+    "count": 41
+  },
+  {
+    "name": "DietitianApproved",
+    "slug": "dietitianapproved",
+    "count": 13
+  },
+  {
+    "name": "DietitiansDoPrevention",
+    "slug": "dietitiansdoprevention",
+    "count": 4
+  },
+  {
+    "name": "DietitiansEats",
+    "slug": "dietitianseats",
+    "count": 14
+  },
+  {
+    "name": "DietitiansWeek",
+    "slug": "dietitiansweek",
+    "count": 9
+  },
+  {
+    "name": "DietitiansWeek2017",
+    "slug": "dietitiansweek2017",
+    "count": 1
+  },
+  {
+    "name": "Drink",
+    "slug": "drink",
+    "count": 1
+  },
+  {
+    "name": "EggFree",
+    "slug": "eggfree",
+    "count": 5
+  },
+  {
+    "name": "EHealth",
+    "slug": "ehealth",
+    "count": 1
+  },
+  {
+    "name": "EPIC",
+    "slug": "epic",
+    "count": 1
+  },
+  {
+    "name": "FamilyFood",
+    "slug": "familyfood",
+    "count": 20
+  },
+  {
+    "name": "FamilyMeal",
+    "slug": "familymeal",
+    "count": 1
+  },
+  {
+    "name": "FamilyTime",
+    "slug": "familytime",
+    "count": 3
+  },
+  {
+    "name": "Foraging",
+    "slug": "foraging",
+    "count": 2
+  },
+  {
+    "name": "FreeFrom",
+    "slug": "freefrom",
+    "count": 6
+  },
+  {
+    "name": "FussyEater",
+    "slug": "fussyeater",
+    "count": 11
+  },
+  {
+    "name": "Gold",
+    "slug": "gold",
+    "count": 2
+  },
+  {
+    "name": "Halloween",
+    "slug": "halloween",
+    "count": 2
+  },
+  {
+    "name": "HappyNewYear",
+    "slug": "happynewyear",
+    "count": 1
+  },
+  {
+    "name": "Healthy",
+    "slug": "healthy",
+    "count": 2
+  },
+  {
+    "name": "HealthyFats",
+    "slug": "healthyfats",
+    "count": 1
+  },
+  {
+    "name": "HeartHealth",
+    "slug": "hearthealth",
+    "count": 1
+  },
+  {
+    "name": "HomeGrown",
+    "slug": "homegrown",
+    "count": 6
+  },
+  {
+    "name": "Honeydew",
+    "slug": "honeydew",
+    "count": 1
+  },
+  {
+    "name": "LoveActivity",
+    "slug": "loveactivity",
+    "count": 7
+  },
+  {
+    "name": "LunchTime",
+    "slug": "lunchtime",
+    "count": 2
+  },
+  {
+    "name": "MealIdea",
+    "slug": "mealidea",
+    "count": 19
+  },
+  {
+    "name": "Melon",
+    "slug": "melon",
+    "count": 1
+  },
+  {
+    "name": "MessyPlay",
+    "slug": "messyplay",
+    "count": 1
+  },
+  {
+    "name": "Microbiome",
+    "slug": "microbiome",
+    "count": 1
+  },
+  {
+    "name": "MilkFree",
+    "slug": "milkfree",
+    "count": 2
+  },
+  {
+    "name": "MumLife",
+    "slug": "mumlife",
+    "count": 15
+  },
+  {
+    "name": "MumOfTwins",
+    "slug": "mumoftwins",
+    "count": 14
+  },
+  {
+    "name": "NiceCream",
+    "slug": "nicecream",
+    "count": 3
+  },
+  {
+    "name": "NoAddedSugar",
+    "slug": "noaddedsugar",
+    "count": 1
+  },
+  {
+    "name": "NoFilter",
+    "slug": "nofilter",
+    "count": 1
+  },
+  {
+    "name": "Nutrition",
+    "slug": "nutrition",
+    "count": 1
+  },
+  {
+    "name": "NutritionAndHydrationWeek",
+    "slug": "nutritionandhydrationweek",
+    "count": 1
+  },
+  {
+    "name": "NutritionFacts",
+    "slug": "nutritionfacts",
+    "count": 12
+  },
+  {
+    "name": "PartyTime",
+    "slug": "partytime",
+    "count": 2
+  },
+  {
+    "name": "PKU",
+    "slug": "pku",
+    "count": 1
+  },
+  {
+    "name": "PortionControl",
+    "slug": "portioncontrol",
+    "count": 6
+  },
+  {
+    "name": "RoleModel",
+    "slug": "rolemodel",
+    "count": 6
+  },
+  {
+    "name": "SmartGoals",
+    "slug": "smartgoals",
+    "count": 1
+  },
+  {
+    "name": "SnackTime",
+    "slug": "snacktime",
+    "count": 19
+  },
+  {
+    "name": "Snow",
+    "slug": "snow",
+    "count": 3
+  },
+  {
+    "name": "Stew",
+    "slug": "stew",
+    "count": 1
+  },
+  {
+    "name": "SugarAwareness",
+    "slug": "sugarawareness",
+    "count": 6
+  },
+  {
+    "name": "SugarFreeFebruary",
+    "slug": "sugarfreefebruary",
+    "count": 4
+  },
+  {
+    "name": "Summer",
+    "slug": "summer",
+    "count": 8
+  },
+  {
+    "name": "SweetCravings",
+    "slug": "sweetcravings",
+    "count": 1
+  },
+  {
+    "name": "ToddlerFood",
+    "slug": "toddlerfood",
+    "count": 1
+  },
+  {
+    "name": "Twins",
+    "slug": "twins",
+    "count": 13
+  },
+  {
+    "name": "UlcerativeColitis",
+    "slug": "ulcerativecolitis",
+    "count": 1
+  },
+  {
+    "name": "Veggies",
+    "slug": "veggies",
+    "count": 15
+  },
+  {
+    "name": "WasteNotWantNot",
+    "slug": "wastenotwantnot",
+    "count": 1
+  },
+  {
+    "name": "WDSD2018",
+    "slug": "wdsd2018",
+    "count": 1
+  },
+  {
+    "name": "Weaning",
+    "slug": "weaning",
+    "count": 1
+  },
+  {
+    "name": "Weaning",
+    "slug": "weaning",
+    "count": 9
+  },
+  {
+    "name": "WhatDietitiansDo",
+    "slug": "whatdietitiansdo",
+    "count": 8
+  },
+  {
+    "name": "WomensSportWeek",
+    "slug": "womenssportweek",
+    "count": 0
+  },
+  {
+    "name": "WorkingMum",
+    "slug": "workingmum",
+    "count": 5
+  },
+  {
+    "name": "WorldBreastfeedingWeek",
+    "slug": "worldbreastfeedingweek",
+    "count": 1
+  },
+  {
+    "name": "WorldDownsyndromeDay",
+    "slug": "worlddownsyndromeday",
+    "count": 1
+  }
+]

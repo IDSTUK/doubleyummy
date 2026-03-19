@@ -1,0 +1,29 @@
+{
+  "name": "DoubleYummy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "node scripts/scrape.mjs",
+    "verify": "node scripts/verify.mjs --local",
+    "verify:remote": "node scripts/verify.mjs --remote",
+    "dev": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy && npx pagefind"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.5",
+    "@11ty/eleventy-plugin-rss": "^2.0.4",
+    "fs-extra": "^11.3.4",
+    "he": "^1.2.0",
+    "luxon": "^3.7.2",
+    "markdown-it": "^14.1.1",
+    "node-fetch": "^2.7.0",
+    "pagefind": "^1.4.0",
+    "sharp": "^0.34.5",
+    "turndown": "^7.2.2",
+    "turndown-plugin-gfm": "^1.0.2"
+  }
+}

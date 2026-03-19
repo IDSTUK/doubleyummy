@@ -1,0 +1,44 @@
+---
+layout: layouts/base.njk
+---
+<div class="tag-archive">
+  <h1 class="tag-archive-title">Tagged: {{ tag }}</h1>
+  <p class="tag-archive-count">{{ pagination.items.length }} recipe{{ 's' if pagination.items.length != 1 }}</p>
+
+  <div class="post-list">
+    {% for post in pagination.items %}
+    <article class="post-card">
+      {% if post.data.featuredImage %}
+      <a href="{{ post.url }}" class="post-card-image">
+        <img src="{{ post.data.featuredImage }}" alt="{{ post.data.title }}" loading="lazy" decoding="async">
+      </a>
+      {% endif %}
+      <div class="post-card-content">
+        <h2 class="post-card-title">
+          <a href="{{ post.url }}">{{ post.data.title }}</a>
+        </h2>
+        <time class="post-card-date" datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time>
+        {% if post.data.tags %}
+        <div class="post-card-tags">
+          {% for tag in post.data.tags | limit(5) %}
+          <a href="/tag/{{ tag | slugify }}/" class="tag-badge tag-badge-sm">{{ tag }}</a>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+
+  {% if pagination.pages.length > 1 %}
+  <nav class="pagination" aria-label="Tag pagination">
+    {% if pagination.href.previous %}
+    <a href="{{ pagination.href.previous }}" class="pagination-link pagination-prev">Newer</a>
+    {% endif %}
+    <span class="pagination-info">Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}</span>
+    {% if pagination.href.next %}
+    <a href="{{ pagination.href.next }}" class="pagination-link pagination-next">Older</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+</div>

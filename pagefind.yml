@@ -1,0 +1,8 @@
+site: _site
+output_subdir: _pagefind
+glob: "**/*.html"
+exclude_selectors:
+  - "nav"
+  - "footer"
+  - ".pagination"
+  - ".post-nav"

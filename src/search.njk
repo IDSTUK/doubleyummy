@@ -1,0 +1,22 @@
+---
+title: Search
+layout: layouts/base.njk
+permalink: /search/
+---
+<div class="search-page">
+  <h1>Search Recipes</h1>
+  <div id="search"></div>
+</div>
+
+<link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/_pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    new PagefindUI({
+      element: '#search',
+      showSubResults: true,
+      showImages: true,
+      autofocus: true
+    });
+  });
+</script>
