@@ -3,13 +3,11 @@ title: "Quick snack out walking"
 date: 2016-06-11T20:09:47
 slug: quick-snack-out-walking
 author: Rach
-featuredImage:
+featuredImage: /images/uploads/2016/06/img_7683.jpg
 excerpt: "Quick snack on the Trelissick Woodland Walk. Orange segments, banana chunks & rice cake. Although I often just take the banana in its skin we…"
 permalink: /quick-snack-out-walking/
 layout: layouts/post.njk
 ---
-
-[![](/images/uploads/2016/06/img_7683.jpg)](/images/uploads/2016/06/img_7683.jpg)
 
 Quick snack on the Trelissick Woodland Walk. Orange segments, banana chunks & rice cake. Although I often just take the banana in its skin we had half a banana left from another snack. 
 
