@@ -8,12 +8,12 @@
 # WordPress legacy redirects
 [[redirects]]
   from = "/feed/"
-  to = "/feed.xml"
+  to = "/"
   status = 301
 
 [[redirects]]
   from = "/feed"
-  to = "/feed.xml"
+  to = "/"
   status = 301
 
 [[redirects]]
