@@ -1,11 +1,11 @@
 ---
 title: "Saturday’s steak night 😍"
 date: 2016-10-09T20:31:21
-slug: saturdays-steak-night-%f0%9f%98%8d
+slug: saturdays-steak-night
 author: Rach
 featuredImage: /images/uploads/2016/10/img_0300.jpg
 excerpt: "Steak and herby wedges with steamed carrot batons and greens, and roasted squash (roasted with some fresh sage and halved garlic bulbs) mixed with cream…"
-permalink: /saturdays-steak-night-%f0%9f%98%8d/
+permalink: /saturdays-steak-night/
 layout: layouts/post.njk
 ---
 

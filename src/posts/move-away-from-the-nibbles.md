@@ -1,11 +1,11 @@
 ---
 title: "Move away from the nibbles 😂"
 date: 2016-12-26T20:03:53
-slug: move-away-from-the-nibbles-%f0%9f%98%82
+slug: move-away-from-the-nibbles
 author: Rach
 featuredImage: /images/uploads/2016/12/img_1392.jpg
 excerpt: "Blowing away the cobwebs with a Boxing Day swim… well we watched 😋  Well done to so many brave souls for going in. It’s been…"
-permalink: /move-away-from-the-nibbles-%f0%9f%98%82/
+permalink: /move-away-from-the-nibbles/
 layout: layouts/post.njk
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: "Family fun over food shopping 😋"
 date: 2016-12-30T17:56:11
-slug: family-fun-over-food-shopping-%f0%9f%98%8b
+slug: family-fun-over-food-shopping
 author: Rach
 featuredImage: /images/uploads/2016/12/img_1504.jpg
 excerpt: "When you decide to enjoy the sunshine with your family rather than go food shopping..! Eating from the store cupboard and freezer 😋 A quick…"
-permalink: /family-fun-over-food-shopping-%f0%9f%98%8b/
+permalink: /family-fun-over-food-shopping/
 layout: layouts/post.njk
 ---
 

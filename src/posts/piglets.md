@@ -1,11 +1,11 @@
 ---
 title: "Piglets 😍"
 date: 2016-10-14T09:01:59
-slug: piglets-%f0%9f%98%8d
+slug: piglets
 author: Rach
 featuredImage: /images/uploads/2016/10/img_0346.jpg
 excerpt: "💖🐖🐓🐐🐂 😊 Checking out where our food comes from @trevaskisfarm 😍🍅🍎🍏🍐🍓🍆🌽 and singing a couple if obligatory verses of Old MacDonald’s Farm! Supporting our local…"
-permalink: /piglets-%f0%9f%98%8d/
+permalink: /piglets/
 layout: layouts/post.njk
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Happy Halloween 🎃 "
 date: 2017-10-31T17:54:53
-slug: happy-halloween-%f0%9f%8e%83-3
+slug: happy-halloween-3
 author: Rach
 tags:
   - AutumnTreat
@@ -11,7 +11,7 @@ tags:
   - Veggies
 featuredImage: /images/uploads/2017/10/img_0079.jpg
 excerpt: "Pumpkin soup (with sage, bacon & apple) for lunch here. Topped with a little grated smoked cheese and served with some crusty bread.  Soup is…"
-permalink: /happy-halloween-%f0%9f%8e%83-3/
+permalink: /happy-halloween-3/
 layout: layouts/post.njk
 ---
 

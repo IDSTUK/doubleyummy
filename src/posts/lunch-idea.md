@@ -1,11 +1,11 @@
 ---
 title: "Lunch idea 🌦"
 date: 2016-08-17T07:57:15
-slug: lunch-idea-%f0%9f%8c%a6
+slug: lunch-idea
 author: Rach
 featuredImage: /images/uploads/2016/08/img_9494.jpg
 excerpt: "Sunshine after the rain, blue skies dododada (or however that song goes 😋) #lunch today for my #10monthold girls with tiger bread tuna and mayo…"
-permalink: /lunch-idea-%f0%9f%8c%a6/
+permalink: /lunch-idea/
 layout: layouts/post.njk
 ---
 

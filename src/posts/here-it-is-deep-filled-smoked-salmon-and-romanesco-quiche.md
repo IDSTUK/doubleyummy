@@ -1,11 +1,11 @@
 ---
 title: "Here it is 😍 Deep filled smoked salmon and Romanesco quiche"
 date: 2016-09-06T20:06:00
-slug: here-it-is-%f0%9f%98%8d-deep-filled-smoked-salmon-and-romanesco-quiche
+slug: here-it-is-deep-filled-smoked-salmon-and-romanesco-quiche
 author: Rach
 featuredImage: /images/uploads/2016/09/img_9844.jpg
 excerpt: "Ingredients:  Thinly rolled short crust pastry (4 oz plain flour, 1 oz unsalted butter & 1 oz lard) A couple of slices of smoked salmon…"
-permalink: /here-it-is-%f0%9f%98%8d-deep-filled-smoked-salmon-and-romanesco-quiche/
+permalink: /here-it-is-deep-filled-smoked-salmon-and-romanesco-quiche/
 layout: layouts/post.njk
 ---
   

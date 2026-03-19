@@ -1,11 +1,11 @@
 ---
 title: "Colourful lunch 🌈"
 date: 2016-09-06T13:35:33
-slug: colourful-lunch-%f0%9f%8c%88
+slug: colourful-lunch
 author: Rach
 featuredImage: /images/uploads/2016/09/img_9863.jpg
 excerpt: "How is your rainbow looking today? As a general rule coloured fruits and veggies have different nutrients in them so eating a rainbow regularly is…"
-permalink: /colourful-lunch-%f0%9f%8c%88/
+permalink: /colourful-lunch/
 layout: layouts/post.njk
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: "Healthy cherry Icecream 😍☀️🍨"
 date: 2016-07-19T10:03:21
-slug: healthy-cherry-icecream-%f0%9f%98%8d%e2%98%80%ef%b8%8f%f0%9f%8d%a8
+slug: healthy-cherry-icecream
 author: Rach
 featuredImage: /images/uploads/2016/07/img_8912.jpg
 excerpt: "Cherry icecream with no added sugar or fat and suitable for almost all ‘free from’ diets and all of the family. The banana makes it…"
-permalink: /healthy-cherry-icecream-%f0%9f%98%8d%e2%98%80%ef%b8%8f%f0%9f%8d%a8/
+permalink: /healthy-cherry-icecream/
 layout: layouts/post.njk
 ---
 Cherry icecream with no added sugar or fat and suitable for almost all ‘free from’ diets and all of the family. The banana makes it have a creamy texture and the frozen fruit mean there’s no need for fancy Icecream makers. 

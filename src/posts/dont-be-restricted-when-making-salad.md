@@ -1,11 +1,11 @@
 ---
 title: "Don’t be restricted when making salad 😀"
 date: 2017-03-28T10:40:16
-slug: dont-be-restricted-when-making-salad-%f0%9f%98%80
+slug: dont-be-restricted-when-making-salad
 author: Rach
 featuredImage: /images/uploads/2017/03/img_2580.jpg
 excerpt: "This is the life! A ‘what’s in the fridge salad’ sat on Poldhu beach with family and friends. There’s no place I’d rather be! This…"
-permalink: /dont-be-restricted-when-making-salad-%f0%9f%98%80/
+permalink: /dont-be-restricted-when-making-salad/
 layout: layouts/post.njk
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: "Festive play 🐧"
 date: 2016-12-12T20:04:19
-slug: festive-play-%f0%9f%90%a7
+slug: festive-play
 author: Rach
 featuredImage: /images/uploads/2016/12/img_1203.jpg
 excerpt: "Festive play idea. Loved this one from this afternoon’s playgroup Christmas party.  Really simple. A silver tray with a few plastic penguins 🐧 (could be…"
-permalink: /festive-play-%f0%9f%90%a7/
+permalink: /festive-play/
 layout: layouts/post.njk
 ---
 

@@ -4,6 +4,7 @@ module.exports = function (eleventyConfig) {
   // Passthrough copy
   eleventyConfig.addPassthroughCopy('src/images');
   eleventyConfig.addPassthroughCopy('src/assets');
+  eleventyConfig.addPassthroughCopy({ 'src/_redirects': '_redirects' });
 
   // Date filters
   eleventyConfig.addFilter('readableDate', (dateObj) => {

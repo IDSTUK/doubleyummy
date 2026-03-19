@@ -1,14 +1,14 @@
 ---
 title: "Minty pea and broad bean humous "
 date: 2016-07-04T12:39:30
-slug: minty-pea-and-broad-bean-humous-%f0%9f%8d%83
+slug: minty-pea-and-broad-bean-humous
 author: Rach
 tags:
   - BabyFood
   - BalancedEating
 featuredImage: /images/uploads/2016/07/img_8400.jpg
 excerpt: "Minty pea and broad bean humous – just finished & I have to admit I’ve already eaten some! Yummy 😍 Ingredients: 300g peas (fresh or…"
-permalink: /minty-pea-and-broad-bean-humous-%f0%9f%8d%83/
+permalink: /minty-pea-and-broad-bean-humous/
 layout: layouts/post.njk
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: "Roast mini pumpkins and chicken for a Halloween weekend 🎃"
 date: 2016-10-30T21:26:40
-slug: roast-mini-pumpkins-and-chicken-for-a-halloween-weekend-%f0%9f%8e%83
+slug: roast-mini-pumpkins-and-chicken-for-a-halloween-weekend
 author: Rach
 featuredImage: /images/uploads/2016/10/img_0647.jpg
 excerpt: "These little pumpkins and squash were so tasty. Much more flavoursome than some of the larger ones grown for colour and size to be made…"
-permalink: /roast-mini-pumpkins-and-chicken-for-a-halloween-weekend-%f0%9f%8e%83/
+permalink: /roast-mini-pumpkins-and-chicken-for-a-halloween-weekend/
 layout: layouts/post.njk
 ---
 

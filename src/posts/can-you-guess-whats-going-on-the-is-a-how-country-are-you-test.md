@@ -1,11 +1,11 @@
 ---
 title: "Can you guess what’s going on? The is a ‘how country are you?’ test 😂"
 date: 2017-05-21T06:39:18
-slug: can-you-guess-whats-going-on-the-is-a-how-country-are-you-test-%f0%9f%98%82
+slug: can-you-guess-whats-going-on-the-is-a-how-country-are-you-test
 author: Rach
 featuredImage: /images/uploads/2017/05/img_3384.jpg
 excerpt: "Good morning little miss bo peep they bleeted through the window! This isn’t a breakfast idea or really a play one though I think I’ll…"
-permalink: /can-you-guess-whats-going-on-the-is-a-how-country-are-you-test-%f0%9f%98%82/
+permalink: /can-you-guess-whats-going-on-the-is-a-how-country-are-you-test/
 layout: layouts/post.njk
 ---
 

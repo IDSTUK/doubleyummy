@@ -1,11 +1,11 @@
 ---
 title: "Carrot cake overnight oats. Verdict = we prefer the fine grate 😀"
 date: 2016-09-06T20:13:46
-slug: carrot-cake-overnight-oats-verdict-we-prefer-the-fine-grate-%f0%9f%98%80
+slug: carrot-cake-overnight-oats-verdict-we-prefer-the-fine-grate
 author: Rach
 featuredImage: /images/uploads/2016/09/img_9818.jpg
 excerpt: "We can’t get enough of it in our house at the moment! We’ve had a lovely summer of guests staying and it’s been a big…"
-permalink: /carrot-cake-overnight-oats-verdict-we-prefer-the-fine-grate-%f0%9f%98%80/
+permalink: /carrot-cake-overnight-oats-verdict-we-prefer-the-fine-grate/
 layout: layouts/post.njk
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: "Happy decorating 🎄"
 date: 2016-12-02T19:15:42
-slug: happy-decorating-%f0%9f%8e%84
+slug: happy-decorating
 author: Rach
 featuredImage: /images/uploads/2016/12/img_1091.jpg
 excerpt: "First weekend in December has started and this is the first decoration going up 😍⛄️🎄 This is a really easy to make decoration. Method: Simply…"
-permalink: /happy-decorating-%f0%9f%8e%84/
+permalink: /happy-decorating/
 layout: layouts/post.njk
 ---
 

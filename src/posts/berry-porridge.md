@@ -1,11 +1,11 @@
 ---
 title: "Berry porridge"
 date: 2016-06-18T07:06:06
-slug: berry-porridge-%f0%9f%8d%93%f0%9f%8d%92
+slug: berry-porridge
 author: Rach
 featuredImage: /images/uploads/2016/06/img_7734-1.jpg
 excerpt: "Mixed berry porridge today. Make your porridge how you like / have time to do & microwave a large handful of froze mixed berries until…"
-permalink: /berry-porridge-%f0%9f%8d%93%f0%9f%8d%92/
+permalink: /berry-porridge/
 layout: layouts/post.njk
 ---
   

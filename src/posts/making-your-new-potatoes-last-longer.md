@@ -1,7 +1,7 @@
 ---
 title: "Making your new potatoes last longer 🥔"
 date: 2019-06-08T20:30:34
-slug: making-your-new-potatoes-last-longer-%f0%9f%a5%94
+slug: making-your-new-potatoes-last-longer
 author: Rach
 tags:
   - DietitiansEats
@@ -11,7 +11,7 @@ tags:
   - WhatDietitiansDo
 featuredImage: /images/uploads/2019/06/4e57dc43-d547-4eae-b071-3f8d719b5e7a.jpg
 excerpt: "Our first new potatoes of the season 😍 B loved helping harvest – she brought the bucket up, carefully took the potatoes from the veg…"
-permalink: /making-your-new-potatoes-last-longer-%f0%9f%a5%94/
+permalink: /making-your-new-potatoes-last-longer/
 layout: layouts/post.njk
 ---
 

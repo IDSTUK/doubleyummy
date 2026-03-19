@@ -1,7 +1,7 @@
 ---
 title: "Advent Challenger 😍🎄"
 date: 2018-12-03T20:15:41
-slug: advent-challenger-%f0%9f%98%8d%f0%9f%8e%84
+slug: advent-challenger
 author: Rach
 tags:
   - Advent
@@ -11,7 +11,7 @@ tags:
   - WhatDietitiansDo
 featuredImage: /images/uploads/2018/12/img_3587.jpg
 excerpt: "My advent challenger for my girls pre-school class. 🎄A different Christmassy themed mini challenge for each school day in advent. Very quickly designed and I’m…"
-permalink: /advent-challenger-%f0%9f%98%8d%f0%9f%8e%84/
+permalink: /advent-challenger/
 layout: layouts/post.njk
 ---
 ![](/images/uploads/2018/12/img_3583.jpg)

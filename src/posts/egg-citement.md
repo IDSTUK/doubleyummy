@@ -1,11 +1,11 @@
 ---
 title: "Egg-citement 🐔"
 date: 2016-09-06T12:30:01
-slug: egg-citement-%f0%9f%90%94
+slug: egg-citement
 author: Rach
 featuredImage: /images/uploads/2016/09/img_9855.jpg
 excerpt: "A double yolker 😍 what a treat. There’s always been excitement at a double yolk egg in our house, but now that I’m a twin…"
-permalink: /egg-citement-%f0%9f%90%94/
+permalink: /egg-citement/
 layout: layouts/post.njk
 ---
 

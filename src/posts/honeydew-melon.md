@@ -1,7 +1,7 @@
 ---
 title: "Honeydew Melon ☀️"
 date: 2016-07-03T19:06:49
-slug: honeydew-melon-%e2%98%80%ef%b8%8f
+slug: honeydew-melon
 author: Rach
 tags:
   - BabyFood
@@ -16,7 +16,7 @@ tags:
   - ToddlerFood
 featuredImage: /images/uploads/2016/07/img_8364.jpg
 excerpt: "One of the tastiest melons I’ve ever eaten. The girls absolutely LOVED it too. Just look at the golden colour ☀️  Rich in Vitamin C,…"
-permalink: /honeydew-melon-%e2%98%80%ef%b8%8f/
+permalink: /honeydew-melon/
 layout: layouts/post.njk
 ---
 

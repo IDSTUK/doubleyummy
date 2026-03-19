@@ -1,7 +1,7 @@
 ---
 title: "Surf and turf 😂"
 date: 2017-09-12T17:20:03
-slug: surf-and-turf-%f0%9f%98%82
+slug: surf-and-turf
 author: Rach
 tags:
   - BabyFood
@@ -11,7 +11,7 @@ tags:
   - Twins
 featuredImage: /images/uploads/2017/09/img_4761.jpg
 excerpt: "The girls (almost 2yrs) are so into playing with their kitchen and food.  This is what I was served evening! Meanwhile her sister got me…"
-permalink: /surf-and-turf-%f0%9f%98%82/
+permalink: /surf-and-turf/
 layout: layouts/post.njk
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: "Mummy & girls picnic; making the most of the sunshine ☀️"
 date: 2016-06-09T20:51:06
-slug: mummy-making-the-most-of-the-sunshine-%e2%98%80%ef%b8%8f
+slug: mummy-making-the-most-of-the-sunshine
 author: Rach
 featuredImage: /images/uploads/2016/06/img_7646-3.jpg
 excerpt: "Ingredients: Mini shell pasta (15-20 shells) cooked & with a little olive oil on to stop them all sticking together.  1/2 avocado (1/2 chopped into…"
-permalink: /mummy-making-the-most-of-the-sunshine-%e2%98%80%ef%b8%8f/
+permalink: /mummy-making-the-most-of-the-sunshine/
 layout: layouts/post.njk
 ---
 
