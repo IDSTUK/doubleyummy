@@ -9,7 +9,6 @@ permalink: /let-the-harvest-begin/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/06/img_8112.jpg)](/images/uploads/2016/06/img_8112.jpg)
 
 Love these cosy little broad bean pods. How I’d like to just snuggle away in there today.
 

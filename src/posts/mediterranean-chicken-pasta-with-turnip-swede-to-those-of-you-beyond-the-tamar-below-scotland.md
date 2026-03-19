@@ -9,7 +9,7 @@ permalink: /mediterranean-chicken-pasta-with-turnip-swede-to-those-of-you-beyond
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/06/img_7793.jpg)](/images/uploads/2016/06/img_7793.jpg)  
+  
 Lunch today is made from Sunday Dinner leftovers of roasted veg (peppers, courgette, onion & cherry tomatoes) served with some mini pasta shells. 
 
 We’ve drizzled a little olive oil on the pasta shells to stop them sticking together and for flavour. Olive oil is a monounsaturated fat which is thought to be one of the healthiest types of fats for our bodies. Babies need a high fat diet to help meet their energy requirements. All of this growing and learning new stuff everyday makes them hungry. 

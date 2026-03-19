@@ -9,7 +9,7 @@ permalink: /balancing-breakfast/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/06/img_8036.jpg)](/images/uploads/2016/06/img_8036.jpg)Another busy morning & trying to give the girls something I know they’ll eat with something new and of course balancing the nutrients. So today we’ve got half a wheat biscuit soaked in full cream milk & topped with 1&1/2 strawberries. Served with toast soldiers (1/2 slice of bread) topped with unsalted smooth peanut butter and accompanied by a small doidy cup of milk & their morning baby vitamins. 
+Another busy morning & trying to give the girls something I know they’ll eat with something new and of course balancing the nutrients. So today we’ve got half a wheat biscuit soaked in full cream milk & topped with 1&1/2 strawberries. Served with toast soldiers (1/2 slice of bread) topped with unsalted smooth peanut butter and accompanied by a small doidy cup of milk & their morning baby vitamins. 
 
 Lots of variety in nutrients, texture and taste but not much hassle to prepare and a great fuel for swimming later. 
 

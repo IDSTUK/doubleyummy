@@ -9,5 +9,5 @@ permalink: /simple-snacks-1/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/06/img_7848.jpg)](/images/uploads/2016/06/img_7848.jpg)  
+  
 Snacks don’t need to be difficult. Low salt rice cakes are a great self feeding snack. I break into wedges and the girls are now able to do the rest (8 months old).  I love watching babies eat 😍

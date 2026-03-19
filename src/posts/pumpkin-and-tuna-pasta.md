@@ -9,7 +9,6 @@ permalink: /pumpkin-and-tuna-pasta/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/11/img_0658.jpg)](/images/uploads/2016/11/img_0658.jpg)
 
 This is a mega quick dish and a great week night family tea.  The pumpkin makes a lovely creamy sauce which is good for fussy eaters and little ones eating with their fingers alike. This meal gets in a fish portion is economical to make and uses up the abundant pumpkins 🎃 
 

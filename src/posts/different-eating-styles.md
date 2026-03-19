@@ -9,7 +9,6 @@ permalink: /different-eating-styles/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/09/img_0175-1.jpg)](/images/uploads/2016/09/img_0175-1.jpg)
 
 Having twins makes me feel like I’m part of a behaviour experiment on a daily basis.
 

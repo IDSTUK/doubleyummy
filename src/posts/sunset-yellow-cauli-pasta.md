@@ -9,7 +9,6 @@ permalink: /sunset-yellow-cauli-pasta/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/07/img_9096.jpg)](/images/uploads/2016/07/img_9096.jpg)
 
 Sunset yellow cauliflower and mini shell pasta with leftover pea and broad bean humous (see previous post for recipe) mixed with a little sundried tomato pesto for lunch today.  
 The girls had the same but not mixed together so that easier as finger food. I stuffed about a third of their mini pasta shells with the humous mix. By stuffing rather than coating them it made it easier for the wee ones to pick up.

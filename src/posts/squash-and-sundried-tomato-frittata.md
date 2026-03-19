@@ -9,7 +9,6 @@ permalink: /squash-and-sundried-tomato-frittata/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/09/img_0122-1.jpg)](/images/uploads/2016/09/img_0122-1.jpg)
 
 Lunch out for my mums birthday. This was the delicious squash and sundried tomato frittata served with lots of yummy salads. The girls loved the frittata!
 

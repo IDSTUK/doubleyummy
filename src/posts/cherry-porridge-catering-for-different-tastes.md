@@ -15,7 +15,7 @@ I love making different coloured porridges using frozen fruit 🌈Frozen fruit m
 
 Today’s porridge is purpley pink with cherries. 
 
-[![](/images/uploads/2016/05/img_7504.jpg)](/images/uploads/2016/05/img_7504.jpg)  
+  
 **Mummy’s porridge:**
 
 Ingredients :

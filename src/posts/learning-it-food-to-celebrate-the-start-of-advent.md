@@ -17,8 +17,6 @@ layout: layouts/post.njk
 
 Happy Advent everyone! 🎄
 
-![](/images/uploads/2019/12/img_8435.jpg)
-
 We’re celebrating with a pomegranate for breakfast. As it’s been such a long time since we last ate it pomegranate has reverted back to a ‘learning it’ food.
 
 For B this has meant successful tasting but a few jewels was enough.

@@ -9,7 +9,7 @@ permalink: /mummy-making-the-most-of-the-sunshine-%e2%98%80%ef%b8%8f/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/06/img_7646.jpg)](/images/uploads/2016/06/img_7646.jpg)  
+  
 
 ### Ingredients
 

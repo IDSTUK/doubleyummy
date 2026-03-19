@@ -9,7 +9,7 @@ permalink: /last-lunch-of-2016-omelette-packed-full-of-veggies/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/12/img_1509-1.jpg)](/images/uploads/2016/12/img_1509-1.jpg)  
+  
 Playing with our plastic eggs today inspired lunch. The girls and I played while daddy cooked.
 
 To make this omelette finely chop a leek, julienne a couple of carrots (steam these veggies), chopped garlic (gently fry before adding the rest of the ingredients), add in chopped ham & whisked eggs. Once cooked on the bottom add a drizzle of creme fraiche and a sprinkle of grated cheese and grill.

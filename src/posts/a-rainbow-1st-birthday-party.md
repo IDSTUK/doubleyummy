@@ -13,7 +13,7 @@ Happy first birthday to my gorgeous neice. What a clever mummy you have! 
 
 Rainbow pizza:
 
-[![](/images/uploads/2016/07/img_8616.jpg)](/images/uploads/2016/07/img_8616.jpg)  
+  
 What a great idea a rainbow themed party is with rainbow platters of fruit and veg too & even a rainbow jelly, that’s 7 layers of jelly set individually by her clever daddy!  
 [![](/images/uploads/2016/07/img_8601.jpg)](/images/uploads/2016/07/img_8601.jpg)  
 [![](/images/uploads/2016/07/img_8584.jpg)](/images/uploads/2016/07/img_8584.jpg)  

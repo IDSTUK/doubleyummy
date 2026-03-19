@@ -9,7 +9,7 @@ permalink: /sweet-potato-borlotti-bean-hash-with-mackerel-fresh-peas/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/06/img_7616.jpg)](/images/uploads/2016/06/img_7616.jpg)  
+  
 
 ### Ingredients
 

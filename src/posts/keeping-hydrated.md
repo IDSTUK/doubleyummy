@@ -9,7 +9,7 @@ permalink: /keeping-hydrated/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/12/img_1186.jpg)](/images/uploads/2016/12/img_1186.jpg)Staying hydrated is important at any time if the year and no matter what your age. Thank you to a good friend of mine and an amazing dietitian Jenna for today’s blog. 
+Staying hydrated is important at any time if the year and no matter what your age. Thank you to a good friend of mine and an amazing dietitian Jenna for today’s blog. 
 
 ‘Ok I hold my hands up, I’m a Dietitian but I do not practise what I preach when it comes to hydration.
 

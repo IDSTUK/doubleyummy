@@ -9,7 +9,6 @@ permalink: /claires-baby-tuna-nicoise/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/06/img_8280.jpg)](/images/uploads/2016/06/img_8280.jpg)
 
 ### Ingredients
 

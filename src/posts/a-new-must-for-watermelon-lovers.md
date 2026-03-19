@@ -11,8 +11,6 @@ layout: layouts/post.njk
 
 Yummy mummy watermelon & feta salad with strawberries, olives and a balsamic dressing. 
 
-[![](/images/uploads/2016/06/img_7832.jpg)](/images/uploads/2016/06/img_7832.jpg)
-
 ### Ingredients
 
 Red cos lettuce (or crunchy lettuce of your choice) – a handful, chopped

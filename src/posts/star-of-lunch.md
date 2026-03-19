@@ -9,7 +9,7 @@ permalink: /star-of-lunch/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/12/img_1202-1.jpg)](/images/uploads/2016/12/img_1202-1.jpg)  
+  
 Festive food doesn’t mean it has to be unhealthy food.   
 Try using cutter to make interesting shaped sandwiches. 
 

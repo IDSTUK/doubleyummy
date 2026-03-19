@@ -11,7 +11,7 @@ layout: layouts/post.njk
 
 Nothing says good morning like my favourite berries. I love you raspberries! Today I’ve used frozen berries as I’m using up what’s in the freezer before I pick this year. Yes that’s my second food love this morning – frozen berries! 🍒🍓🍇 (no raspberry emoji!)
 
-[![](/images/uploads/2016/06/img_7724.jpg)](/images/uploads/2016/06/img_7724.jpg)  
+  
 
 ### Ingredients
 

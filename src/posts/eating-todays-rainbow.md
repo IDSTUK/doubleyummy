@@ -17,8 +17,6 @@ Let me take you through our day as we enjoy eating yesterday’s rainbow harvest
 [![](/images/uploads/2016/07/img_8482-2.jpg)](/images/uploads/2016/07/img_8482-2.jpg)  
 For breakfast blueberries and loganberries on our usual porridge & yoghurt mix. 
 
-[![](/images/uploads/2016/07/img_8483.jpg)](/images/uploads/2016/07/img_8483.jpg)
-
 Eating the rainbow with this green risotto for tea. For 2 adults and 2 9 month olds: Fry 1 small diced onion & 2 finely chopped garlic cloves in 1tbsp oil until softened. Add 150g arborio rice and stir for about a minute. Pour in 600ml unsalted chicken stock and 50ml cider vinegar. Add in 3 blocks of frozen spinach and 1 grated courgette. Stir continuously for about 10 minutes until the rice is almost cooked. Add 150g peas, 1 chopped large field mushrooms & a couple of diced slices of chopped ham. Stir for about 5 minutes. Stir in 45g grated Parmesan and 15g unsalted butter (leave out the butter if you’re watching your weight). Serve immediately. The courgette was from yesterday’s harvest & I used frozen onions, garlic & spinach.   
 Not pictured today were the tomatoes which were eaten with our picnic lunch after swimming. 
 

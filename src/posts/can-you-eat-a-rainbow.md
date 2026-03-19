@@ -11,7 +11,7 @@ layout: layouts/post.njk
 
 This is my harvest from the garden this evening (excluding the blueberries which are grown down the road)! 
 
-[![](/images/uploads/2016/07/img_8449-1.jpg)](/images/uploads/2016/07/img_8449-1.jpg)  
+  
 By eating a wide range of fruits and vegetables it allows your body to get a load of the nutrients it needs. 
 
 Right now I’ve got my thinking cap on to work out how to incorporate this into tomorrow’s meal plan 😍🌈   

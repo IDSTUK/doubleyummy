@@ -9,7 +9,6 @@ permalink: /lunch-for-the-beach/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/05/img_7522.jpg)](/images/uploads/2016/05/img_7522.jpg)
 
 Ingredients:
 

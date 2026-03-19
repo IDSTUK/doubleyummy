@@ -9,7 +9,6 @@ permalink: /exploring-the-craft-box/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/11/img_0813.jpg)](/images/uploads/2016/11/img_0813.jpg)
 
 I was thinking to get the paints or glue out but didn’t need to as the girls lived just exploring the crafting boxes contents. 
 

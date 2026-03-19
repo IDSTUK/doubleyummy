@@ -9,7 +9,6 @@ permalink: /my-sticker/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/01/img_1756-1.jpg)](/images/uploads/2017/01/img_1756-1.jpg)
 
 I’ve got my first Redwood Forest Badge! 
 

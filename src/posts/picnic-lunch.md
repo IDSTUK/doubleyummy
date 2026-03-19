@@ -9,7 +9,7 @@ permalink: /picnic-lunch/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/07/img_8987.jpg)](/images/uploads/2016/07/img_8987.jpg)  
+  
 Picnic lunch today after Bongo Babies at the @dracenacentre.  
 Finger friendly strips of Edam (pre sliced was cheaper would you believe?! And by cutting down the stack of cheese it quickly made lots of strips),
 

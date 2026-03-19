@@ -9,7 +9,6 @@ permalink: /balancing-breakfast-post-bonfire-night/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/11/img_0769.jpg)](/images/uploads/2016/11/img_0769.jpg)
 
 So it’s not a toffee apple but it is in season 😋 
 

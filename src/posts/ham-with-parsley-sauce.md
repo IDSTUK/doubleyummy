@@ -9,7 +9,7 @@ permalink: /ham-with-parsley-sauce/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/07/img_8686.jpg)](/images/uploads/2016/07/img_8686.jpg)  
+  
 Served with new potatoes, green beans & the tops of the purple sprouting broccoli. Both girls had a little more ham than pictured 😍 This was followed by chunks of watermelon 🍉; now a family favourite!  
 We cooked a ham in the pressure cooker & served warm. 
 

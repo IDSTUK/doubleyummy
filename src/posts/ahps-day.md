@@ -12,7 +12,7 @@ permalink: /ahps-day/
 layout: layouts/post.njk
 ---
 
-![](/images/uploads/2018/10/img_3296.jpg)AHPs Day (a day to celebrate and appreciate our allied health professionals) was yesterday and is the main reason that I’ve not been in here much!
+AHPs Day (a day to celebrate and appreciate our allied health professionals) was yesterday and is the main reason that I’ve not been in here much!
 
 Back in April I tweeted the Chief AHP Officer for NHS England to see if there was such a thing to which she replied no. However she retweeted it out on Twitter and the concept was so well received we worked to make yesterday the first #AHPsDay
 

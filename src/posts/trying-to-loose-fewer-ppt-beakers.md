@@ -9,7 +9,6 @@ permalink: /trying-to-loose-fewer-ppt-beakers/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/10/img_0629-1.jpg)](/images/uploads/2016/10/img_0629-1.jpg)
 
 Love it when you go out to a cafe and they have lots of highchairs (or two that aren’t being used!). 
 

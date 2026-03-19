@@ -9,7 +9,7 @@ permalink: /our-first-new-potatoes/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/05/img_3233.jpg)](/images/uploads/2017/05/img_3233.jpg)  
+  
 Paired with some local asparagus and a slice of spinach, ham and mushroom pie.  
 This pie is absolutely loaded with veggies (a whole punnet of mushrooms and 6 frozen nuggets of spinach).  
 I make the white sauce using 2 teaspoons vegetable oil warmed and 2 tbsp plain flour well mixed in. Then thinned down with milk. I often add in a tsp of mustard powder or lots of herbs.  

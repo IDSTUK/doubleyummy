@@ -9,7 +9,7 @@ permalink: /roasted-veg-tortellini/
 layout: layouts/post.njk
 ---
 
-[](https://doubleyummy.uk/wp-content/uploads/2016/10/img_0204.jpg)[![](/images/uploads/2016/10/img_0204-1.jpg)](/images/uploads/2016/10/img_0204-1.jpg)
+[](https://doubleyummy.uk/wp-content/uploads/2016/10/img_0204.jpg)
 
 Last Friday’s tea after a busy day at Bongo Babies and visiting friends. 
 

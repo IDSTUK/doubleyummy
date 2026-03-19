@@ -9,7 +9,7 @@ permalink: /apple-and-peach-oaty-bites/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/06/img_7808.jpg)](/images/uploads/2016/06/img_7808.jpg)  
+  
 Baby friendly oat nibbles: Today’s flavours is Apple and peach. 
 
 These little oaty nibbles (baby flapjacks!) Are such a hit with my girls. 

@@ -9,7 +9,6 @@ permalink: /packaged-for-the-road-avocado/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/06/img_8030.jpg)](/images/uploads/2016/06/img_8030.jpg)
 
 Naturally packaged for the road. We love you avocado. Rich in healthy monounsaturated fats, it’s also a good source of fibre, vitamin K & B vitamins
 

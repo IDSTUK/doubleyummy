@@ -9,7 +9,6 @@ permalink: /with-many-normal-sized-eggs-having-the-daily-energy-requirements-of-
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2017/04/img_2853-2.jpg)](/images/uploads/2017/04/img_2853-2.jpg)
 
 Happy Good Friday everyone. 
 

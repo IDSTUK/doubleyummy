@@ -37,7 +37,6 @@ Until it looks like this:
 
 Defrost some frozen cherries (I used 5). I love frozen fruit!
 
-
 Split the banana & oats mixture in half and chop up the cherries. Add the cherries to one lot of mixture.
 
 [![](/images/uploads/2016/05/img_9434.jpg)](/images/uploads/2016/05/img_9434.jpg)
@@ -48,7 +47,7 @@ Mix until the colour is consistent like this:
 
 Form into your desired shapes. I made little fingers:
 
-[![](/images/uploads/2016/05/img_9435.jpg)](/images/uploads/2016/05/img_9435.jpg)[![](/images/uploads/2016/05/img_9436.jpg)](/images/uploads/2016/05/img_9436.jpg)
+[![](/images/uploads/2016/05/img_9435.jpg)](/images/uploads/2016/05/img_9435.jpg)
 
 Bake in the oven at 180°C (lower if fan) for about 20 minutes.
 

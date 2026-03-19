@@ -9,7 +9,6 @@ permalink: /table-booster-seat-gap-hack/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/06/img_7867.jpg)](/images/uploads/2016/06/img_7867.jpg)
 
 The inch gap between the breakfast bar & the seat has been a bug bearer of mine since we introduced solids, and a source of a lot of lost food! 
 

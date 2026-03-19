@@ -9,7 +9,6 @@ permalink: /family-fun-over-food-shopping-%f0%9f%98%8b/
 layout: layouts/post.njk
 ---
 
-[![](/images/uploads/2016/12/img_1504-1.jpg)](/images/uploads/2016/12/img_1504-1.jpg)
 
 When you decide to enjoy the sunshine with your family rather than go food shopping..! Eating from the store cupboard and freezer 😋
 
