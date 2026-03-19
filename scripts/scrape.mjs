@@ -297,7 +297,7 @@ async function scrapeAll() {
     slug: t.slug,
     count: t.count,
   }));
-  await fs.writeJson(path.join(DATA_DIR, 'tags.json'), tagData, { spaces: 2 });
+  await fs.writeJson(path.join(DATA_DIR, 'tagMeta.json'), tagData, { spaces: 2 });
 
   // 2. Fetch all posts
   console.log('📝 Fetching posts...');

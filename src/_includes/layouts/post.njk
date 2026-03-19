@@ -11,7 +11,9 @@ layout: layouts/base.njk
     {% if tags %}
     <div class="post-tags">
       {% for tag in tags %}
-      <a href="/tag/{{ tag | slugify }}/" class="tag-badge">{{ tag }}</a>
+        {% if tag and tag != "posts" and not tag.name %}
+        <a href="/tag/{{ tag | slugify }}/" class="tag-badge">{{ tag }}</a>
+        {% endif %}
       {% endfor %}
     </div>
     {% endif %}

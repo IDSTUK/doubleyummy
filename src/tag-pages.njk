@@ -14,7 +14,7 @@ eleventyComputed:
 
   <div class="post-list">
     {% for post in collections.posts %}
-      {% if tagItem.name in post.data.tags %}
+      {% if post.data.tags and tagItem.name in post.data.tags %}
       <article class="post-card">
         {% if post.data.featuredImage %}
         <a href="{{ post.url }}" class="post-card-image">

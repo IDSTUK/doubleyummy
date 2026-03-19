@@ -31,8 +31,10 @@ permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page/{{ pagination.pa
         {% endif %}
         {% if post.data.tags %}
         <div class="post-card-tags">
-          {% for tag in post.data.tags | limit(4) %}
-          <a href="/tag/{{ tag | slugify }}/" class="tag-badge tag-badge-sm">{{ tag }}</a>
+          {% for tag in post.data.tags | limit(8) %}
+            {% if tag and tag != "posts" and not tag.name %}
+            <a href="/tag/{{ tag | slugify }}/" class="tag-badge tag-badge-sm">{{ tag }}</a>
+            {% endif %}
           {% endfor %}
         </div>
         {% endif %}
