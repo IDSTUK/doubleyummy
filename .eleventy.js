@@ -38,11 +38,20 @@ module.exports = function (eleventyConfig) {
     return stripped.length > 160 ? stripped.substring(0, 160) + '...' : stripped;
   });
 
-  // Posts collection sorted by date (newest first)
+  // Posts collection sorted by date (oldest first — chronological journey)
+  // Excludes the "Start Here" post which lives in the homepage hero
   eleventyConfig.addCollection('posts', (collectionApi) => {
     return collectionApi
       .getFilteredByGlob('src/posts/*.md')
-      .sort((a, b) => new Date(b.date) - new Date(a.date));
+      .filter((post) => post.data.slug !== 'where-to-start')
+      .sort((a, b) => new Date(a.date) - new Date(b.date));
+  });
+
+  // Start Here post (for homepage hero)
+  eleventyConfig.addCollection('startHere', (collectionApi) => {
+    return collectionApi
+      .getFilteredByGlob('src/posts/*.md')
+      .filter((post) => post.data.slug === 'where-to-start');
   });
 
   // Tag list collection (unique tags with counts, deduplicated by slug)

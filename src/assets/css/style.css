@@ -167,23 +167,128 @@ h1, h2, h3, h4 {
   min-height: 60vh;
 }
 
-/* --- Home intro --- */
-.home-intro {
-  text-align: center;
+/* --- Hero (Start Here) --- */
+.hero {
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
   margin-bottom: 2.5rem;
-  padding-bottom: 1.5rem;
-  border-bottom: 1px solid #e8e8e4;
 }
 
-.home-intro h1 {
-  font-size: 2rem;
+.hero-inner {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-image img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  display: block;
+}
+
+.hero-content {
+  padding: 1.5rem;
+}
+
+.hero-content h1 {
+  font-size: 1.6rem;
   color: #d4764e;
+  margin-bottom: 0.75rem;
+}
+
+.hero-content p {
+  color: #555;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 0.75rem;
+}
+
+.hero-content p a {
+  text-decoration: underline;
+}
+
+.hero-search {
+  margin-top: 1rem;
   margin-bottom: 0.5rem;
 }
 
-.home-intro p {
-  color: #666;
-  font-size: 1.1rem;
+.hero-browse {
+  text-align: center;
+  padding-top: 0.5rem;
+}
+
+.hero-scroll-hint {
+  font-size: 0.85rem;
+  color: #999;
+}
+
+/* Pagefind UI overrides within hero */
+.hero-search .pagefind-ui__search-input {
+  border-radius: 6px;
+  border: 2px solid #e8e8e4;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  min-height: 44px;
+}
+
+.hero-search .pagefind-ui__search-input:focus {
+  border-color: #d4764e;
+  outline: none;
+}
+
+.hero-search .pagefind-ui__search-clear {
+  min-height: 44px;
+}
+
+/* Tablet: two-column hero */
+@media (min-width: 600px) {
+  .hero-inner {
+    flex-direction: row;
+  }
+
+  .hero-image {
+    flex: 0 0 35%;
+    min-height: 0;
+  }
+
+  .hero-image img {
+    aspect-ratio: auto;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hero-content {
+    flex: 1;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .visible-mobile {
+    display: none;
+  }
+}
+
+/* Desktop: larger hero */
+@media (min-width: 900px) {
+  .hero-image {
+    flex: 0 0 40%;
+  }
+
+  .hero-content {
+    padding: 2.5rem;
+  }
+
+  .hero-content h1 {
+    font-size: 2rem;
+  }
+
+  .hero-content p {
+    font-size: 1.05rem;
+  }
 }
 
 /* --- Post list / cards --- */

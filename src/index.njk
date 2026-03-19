@@ -7,12 +7,31 @@ pagination:
   alias: posts
 permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page/{{ pagination.pageNumber + 1 }}/{% endif %}"
 ---
-<div class="home">
-  <div class="home-intro">
-    <h1>{{ site.title }}</h1>
-    <p>{{ site.description }}</p>
+{% if pagination.pageNumber == 0 %}
+{% set startHere = collections.startHere[0] %}
+<section class="hero" aria-labelledby="start-here-heading">
+  <div class="hero-inner">
+    {% if startHere and startHere.data.featuredImage %}
+    <div class="hero-image">
+      <img src="{{ startHere.data.featuredImage }}" alt="Baby weaning food" loading="eager" decoding="async">
+    </div>
+    {% endif %}
+    <div class="hero-content">
+      <h1 id="start-here-heading">Start Here</h1>
+      <p>Hi! I'm Rach, a registered dietitian and mum of twin girls, Bella &amp; Wynnie. This site follows our weaning journey from May 2016 to January 2020 &mdash; recipes, tips, and the honest reality of feeding two small humans.</p>
+      <p>Posts are arranged oldest first, so you can follow along from the very beginning. Use the search below to find recipes by ingredient, or browse by <a href="/tags/">tags</a> and the <a href="/archive/">archive</a>.</p>
+      <div class="hero-search">
+        <div id="hero-search-container"></div>
+      </div>
+      <div class="hero-browse visible-mobile">
+        <span class="hero-scroll-hint">Browse recipes below &darr;</span>
+      </div>
+    </div>
   </div>
+</section>
+{% endif %}
 
+<div class="home">
   <div class="post-list">
     {% for post in posts %}
     <article class="post-card">
@@ -46,11 +65,11 @@ permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page/{{ pagination.pa
   {% if pagination.pages.length > 1 %}
   <nav class="pagination" aria-label="Post pagination">
     {% if pagination.href.previous %}
-    <a href="{{ pagination.href.previous }}" class="pagination-link pagination-prev">Newer posts</a>
+    <a href="{{ pagination.href.previous }}" class="pagination-link pagination-prev">&larr; Previous</a>
     {% endif %}
     <span class="pagination-info">Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}</span>
     {% if pagination.href.next %}
-    <a href="{{ pagination.href.next }}" class="pagination-link pagination-next">Older posts</a>
+    <a href="{{ pagination.href.next }}" class="pagination-link pagination-next">Next &rarr;</a>
     {% endif %}
   </nav>
   {% endif %}

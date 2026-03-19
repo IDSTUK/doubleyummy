@@ -56,6 +56,17 @@
   to = "/"
   status = 301
 
+# Start Here redirect (old post URL → homepage)
+[[redirects]]
+  from = "/where-to-start/"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/where-to-start"
+  to = "/"
+  status = 301
+
 # Custom 404
 [[redirects]]
   from = "/*"

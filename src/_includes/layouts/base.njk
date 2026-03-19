@@ -18,6 +18,7 @@
   {% endif %}
 
   <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/_pagefind/pagefind-ui.css">
 </head>
 <body>
   <header class="site-header">
@@ -52,6 +53,7 @@
     </div>
   </footer>
 
+  <script src="/_pagefind/pagefind-ui.js"></script>
   <script>
     // Mobile menu toggle
     const toggle = document.querySelector('.menu-toggle');
@@ -63,6 +65,36 @@
         nav.classList.toggle('is-open');
       });
     }
+
+    // Initialize Pagefind search on homepage hero and search page
+    window.addEventListener('DOMContentLoaded', () => {
+      const heroSearch = document.getElementById('hero-search-container');
+      if (heroSearch) {
+        new PagefindUI({
+          element: '#hero-search-container',
+          showSubResults: true,
+          showImages: true,
+          autofocus: false
+        });
+      }
+      const searchPage = document.getElementById('search');
+      if (searchPage) {
+        new PagefindUI({
+          element: '#search',
+          showSubResults: true,
+          showImages: true,
+          autofocus: true
+        });
+      }
+      const search404 = document.getElementById('search-404');
+      if (search404) {
+        new PagefindUI({
+          element: '#search-404',
+          showSubResults: false,
+          showImages: true
+        });
+      }
+    });
   </script>
 </body>
 </html>
